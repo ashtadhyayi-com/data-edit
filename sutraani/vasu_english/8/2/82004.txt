@@ -1,0 +1,25 @@
+An unaccented vowel becomes <i>svarita</i>, when it comes after a यण् (semi-vowel), which यण् itself has come in the room of a vowel which was acute or <i>svarita</i> once.
+
+Let us first take the vowel following an <i>udatta</i> <i>yan</i>. Thus कुमा॒॒र्यौ॑, कुमा॒॒॑र्यः ॥ The word कुमारी꣡ is acutely accented on the final, because the long ई (ङीप्) replaces अ꣡ of कुमार [[6.1.161]]. The semi-vowel य् is substituted in the room of this acute ई꣡; the <i>anudatta</i> आ and अः become <i>svarita</i> after such a य् ॥
+
+Now to take an example of a <i>svarita</i>-<i>yan</i>. The words सकृल्लू꣡ and खलपू꣡ are finally acute by <i>krit</i>-accent [[6.2.139]]. The Locative singular of these words are खलपू꣡ + इ॒॒ = खल्पिवं, and सकृल्ल्वि by [[6.4.83]]. This व् is a semi-vowel which comes in the room of the acute ऊ꣡, therefore, it is <i>udatta</i>-<i>yan</i>. After this <i>udatta</i>-<i>yan</i>, the <i>anudatta</i> इ of the Locative becomes <i>svarita</i> by the first part of this <i>sutra</i>. Now when खलप्वि॑ + आशा꣡ and सकृल्ल्वि॑ + आशा꣡ are combined by <i>sandhi</i>, this <i>svarita</i> इ is changed to य्; it is, therefore, a <i>svarita</i>-<i>yan</i>. The unaccented आ will become <i>svarita</i>, after this <i>svarita</i>-<i>yan</i>. As खलप्व्या॑शा and सकृल्ल्व्या॑शा ॥ The word आशा is finally acute and consequently आ is not acute (<i>Phit</i>. I. 18).
+
+Objection:- Here an objector may say: that the <i>svarita</i> accent on इ in खलप्वि is by this very <i>sutra</i>, this <i>svarita</i> is to be considered as <i>asiddha</i> for the purposes of यण् <i>adesa</i> of [[6.4.83]]. How can then the य् substituted for this इ be considered as <i>svarita</i>-<i>yan</i>?
+
+Answer:- This is considered as <i>siddha</i> by <i>asraya</i>. (आश्रयात् सिद्धत्वम्) ॥
+
+Objection :-If this be so, then उदात्तादनुदात्तस्य स्वरितः [[8.4.66]] should also be considered as <i>siddha</i>: and we should have <i>svarita</i> in दध्याशा &c also. For the word द꣡धि is first-acute by <i>Phit</i> Il. 3. Therefore धि is <i>svarita</i> by [[8.4.66]]. The य् is <i>svarita</i> <i>yan</i>, the <i>anudatta</i> आ after this should become <i>svarita</i> according this view, but this is not so.
+
+Answer:- To avoid this difficulty, we have the following.
+
+Vart:- यण्स्वरो यणादेशो सिद्धो वक्तव्यः ॥ "The यण् accent should be considered as valid, for the purposes of यण् substitution".
+
+Some say, that even in such cases as दध्या॑शा the above rule applies, and that the unaccented vowel becomes <i>svarita</i>, if it follows a <i>svarita</i>-<i>yan</i> which is preceded by an acute vowel. They quote the following from <i>Taittariya</i> <i>sakha</i> : यास्ते विश्वाः समिधः सन्त्यग्ने, where the अ of अग्ने is pronounced as <i>svarita</i>. So also in the <i>Brahmana</i> portion as : दध्या॑शयति the आ is read as <i>svarita</i>. But according to <i>Katyayana</i> and <i>Patanjali</i>, the unaccented vowel does not become <i>svarita</i> by this <i>sutra</i>, when it follows a <i>svarita</i>-<i>yan</i> which is preceded by an acute vowel.
+
+To get rid of these anomalies, the <i>Mahabhashya</i> proposes several alternatives, two of which will be mentioned here. The first proposal is to divide this composite <i>sutra</i> into two parts: (1) उदात्तयणः परस्य अनुदात्तस्य स्वरितो भवति "an unaccented vowel becomes <i>svarita</i> when it follows after an <i>udatta</i> <i>yan</i>". (2) स्वरितयणश्च परस्य अनुदात्तस्य स्वरितो भवति "an unaccented vowel becomes <i>svarita</i>, when following a <i>svarita</i> <i>yan</i>" and in this second <i>sutra</i>, we shall read the <i>anuvritti</i> of <i>udatta</i>-<i>yan</i> from the preceding half. So that this half will mean: उदात्तयण इत्येवं यो निर्वृत्तः स्वरितः, तस्य यणः परस्य अनुदात्तस्य स्वरितो भवति ॥ The <i>svarita</i> must have been obtained by the application of the first half of this <i>sutra</i> and this <i>svarita</i> should be changed to यण्, which would change the <i>anudatta</i> into <i>svarita</i>. So that the स्वरित यणः means this particular <i>svarita</i> obtained by the application of this very <i>sutra</i>.
+
+The second proposal is not to read <i>svarita</i> into the <i>sutra</i> at all. The <i>svarita</i> in सकृल्ल्व्या॑शा would then be explained by <i>udatta</i>-<i>yanah</i> rule. सकृल्लू + इ + आशा = सकृल्ल्व् + य् + आशा ॥ Here व् is <i>udatta</i>-<i>yan</i>. This will cause आ to become <i>svarita</i>. The intervening <i>svarita</i> य् is considered as not existent for the purposes of accent स्वरविधौव्यञ्जनमविद्यमानवत् ॥ Nor is this य् to be considered as <i>sthani</i>-<i>vad</i> to इ by [[1.1.57]], for in applying the rule of accent, such a substitute is not considered as <i>sthanivat</i> by [[1.1.58]].
+
+Why do we say " of <i>udatta</i> and <i>svarita</i>"? Observe बैदी꣡ + आशा꣡ = बैद्याशा, so also शार्ङ्गव्याशा ॥ Here the semi-vowel replaces an unaccented ई, and is अनुदात्त यण् ॥ These words are first acute owing to नित् accent [[4.1.73]].
+
+Why do we say "an unaccented vowel becomes <i>svarita</i>"? Observe कुमार्यत्र, किशोर्यत्र ॥ The word अ꣡त्र is acutely accented on the first by लित् accent. [[6.1.193]].

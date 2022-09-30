@@ -1,0 +1,27 @@
+The wording of this <i>sutra</i> requires a little explanation. It consists of the following words:-
+
+1. रलः <i>ralah</i>, ablative of रल् (after the consonants included in the <i>Pratayahara</i> <i>ral</i> i.e., all the consonants except य् <i>y</i> and व् <i>v</i>) :- Verbs having their final letter any single consonant except य् <i>y</i> and व् <i>v</i>.
+
+2. व्युपधात् and means "after penultimate वी." It is a compound of वी + उपधा. The वी itself is a compound of उ + इ = वि, in the dual वी. Therefore the phrase means "after (verbs) having for their penultimate either इ <i>i</i> or उ <i>u</i> long or short."
+
+3. हलादेः means "beginning with a consonant."
+
+All these three words qualify the word "verb" understood.
+
+4. संश्च means "and <i>san</i>."
+
+The <i>sutra</i> means, those verbs which have a रल् letter in the end, a हल् in the beginning, and an इ, ई or उ, ऊ in their penultimate, may optionally treat the affixes <i>ktva</i> and <i>san</i> as कित्.
+
+Thus दद्युत् 'to shine,' makes दद्युतित्वा or द्योतित्वा 'having shone,' लिख् 'to write' makes लिखित्वा or लेखित्वा.
+
+Similarly in <i>san</i> affix we have लिलिखिषति or लिलेखिषति 'he wishes to write', दिदद्युतिषते or दिद्योतिषते 'wishes to shine.'
+
+The rule does not apply if the verb ends in a letter other than रल्. As दिव् + क्त्वा = देवित्वा; its desiderative will be दिदेविषति. No option is allowed here.
+
+Similarly there is no option when the penultimate vowel is not इ or उ. As वृत्त् + क्त्वा = वर्तित्वा Des. विवर्तिषते.
+
+The rule also does not apply if the verb does not begin with a consonant. As एषित्वा and एषिषिषति. There is no option allowed here.
+
+The rule does not apply if the क्त्वा and सन् are <i>anit</i>. As भुक्त्वा, बुभुक्षते.
+
+In these 26 <i>sutras</i> the description of affixes which are treated like ङित् and कित् is comprised.

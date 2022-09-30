@@ -1,0 +1,7 @@
+This defines the word <i>dhatu</i> or root. The list of Sanskrit verbs begins with the root <i>bhu</i> 'to be.' Sanskrit grammarians have divided all verbs into ten classes, according to certain modifications which their roots undergo before certain terminations. The ten classes are as follows:-
+
+1. <i>Bhu</i> class. 2. <i>Ad</i>. 3. <i>Hu</i>. 4. <i>Div</i>. 5. <i>Su</i>, 6. <i>Tud</i>. 7. <i>Rudh</i>. 8. <i>Tan</i>. 9. <i>Kri</i>. 10. <i>Chur</i>.
+
+There are about two thousand verbs, and they are conjugated in two forms, some taking the <i>Parasmaipada</i> terminations only, the others the <i>Atmanepada</i> terminations and some both. The present chapter deals mostly with rules determining the nature of the verbal root, whether it is <i>Parasmaipadi</i> or <i>Atmanepadi</i> or both. A verb expresses action. The word <i>dhatu</i> is a word coined by older grammarians than <i>Panini</i> and they employed the term in denoting a word expressing action. Here also, therefore, the word <i>dhatu</i> means a word which expresses action.
+
+The वा in the <i>sutra</i> is for the sake of auspiciousness; for the regular <i>sandhi</i> of भू + आदि is भ्वादि and not भूवादि; while Dr. Ballantyne considers that वा is a separate root : he translates the <i>sutra</i> thus:- "Let the verbal roots <i>bhu</i> 'be,' <i>va</i> 'blow' and the like be called <i>dhatu</i>."

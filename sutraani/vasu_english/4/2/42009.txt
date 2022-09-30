@@ -1,0 +1,15 @@
+<i>Karika</i>
+सिद्धे यस्येतिलोपेन किमर्थं ययतौ डितौ ।
+ग्रहणं माऽतदर्थे भूद्वामदेव्यस्य नञ्स्वरे ॥
+
+This debars अण् ॥ Thus वामदेवेन दृष्टं साम = वामदेव्यं॑ or वामदेव्यं꣡ ॥ The indicatory त् in 'dyat' shows that य has <i>svarita</i> accent [[6.1.125]].
+
+Q. What is the use of the indicatory ड्?
+
+Ans. The final syllable is elided when a डित् affix is added, by [[6.4.143]].
+
+Q. The final अ of वामदेव would have been elided without making this affix डित्, by the rule [[6.4.148]], then what is the use of making this affix डित्?
+
+Ans. Well, the author here indicates by <i>jnapaka</i>, the existence of these two maxims of interpretation, viz. <i>Paribhashas</i> निरनुबन्धकग्रहणे न सानुबन्धकस्य "when a term void of <i>anubandhas</i> is employed, it does not denote that which has an <i>anubandha</i> attached to it". तदनुबन्धकग्रहणे नातदनुबन्धकस्य "when a term with one or more <i>anubandhas</i> is employed it does not denote that which, in addition to those, has another <i>anubandha</i> attached to it".
+
+For had य and यत् been only taught instead of '<i>dya</i>' and '<i>dyat</i>', then by rule [[6.2.156]] the final of such word, with the negative particle अ, would take <i>udatta</i> on the final, but that is not the case. Therefore अवामदेव्यं is not finally acute, but has acute on the first syllable, taking the accent of the Indeclinable [[6.2.2]]. As अ꣡वामदेव्यं ॥

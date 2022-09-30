@@ -1,0 +1,23 @@
+The terminations which are added to roots are either <i>Sarvadhatuka</i> or <i>ardhadhatuka</i>. The <i>Sarvadhatuka</i> terminations are all those that are marked with a श् and also the tense terminations called तिङ्, the latter are the following:-
+
+<i>Parasmaipada</i>
+
+- 3rd Person. तिप् तस् झि
+- 2nd Person. सिप् थस् थ
+- Ist Person. मिप् वस् मस्
+
+<i>Atmanepada</i>
+
+- 3rd Person. त आताम् झ
+- 2nd Person. थास् आथाम् ध्वम्
+- Ist Person. इट् वहि महिङ्
+
+Except the terminations marked with a प् such as ति, सि and मि, &c., all the other <i>Sarvadhatuka</i> terminations are ङित्. The शित् terminations like शतृ, शानच्, &c., are also <i>Sarvadhatuka</i> terminations. These affixes are also ङित्, unless they have a प् as indicatory, as शप्. Thus the affix as तस्, being an अपित् <i>Sarvadhatuka</i> affix, is a ङित्, and before it the vowel is not <i>gunated</i> e. g. कुरुतः 'they two do.' The equation is :- कृ + उ + तस् (the उ is added by Rule [[3.1.79]]) = कर् + उ + तस् [[6.4.110]] = कुरु + तस् = कुरुतः ॥ Similarly कुर्वन्ति 'they do.'
+
+Here the अ of कर् is changed into उ and we have कुर्, by virtue of rule [[6.4.110]], which declares that the अ of the verb कर् is changed into उ before those <i>Sarvadhatuka</i> affixes which are ङित् or कित्. Here तस् is a <i>Sarvadhatuka</i> ङित् affix by the present rule, and hence the change.
+
+These four <i>sutras</i> describe the ङित् terminations.
+
+Why do we say 'a <i>Sarvadhatuka</i> affix'? Because an <i>ardhadhatuka</i> affix, though not being marked with an indicatory प् will not be a ङित्. As कर्त्ता 'doer,' कर्तुम् 'to do,' कर्तव्यम् 'duty.'
+
+Why do we say 'not having an indicatory प्'? If a <i>Sarvadhatuka</i> affix has an indicatory प् it will not be <i>nit</i>. As कृ + उ + तिप् = करोति 'he does' करोषि 'thou doest,' करोमि 'I do.'

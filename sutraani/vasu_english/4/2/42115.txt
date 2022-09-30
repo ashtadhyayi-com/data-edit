@@ -1,0 +1,3 @@
+The word भवत् is a <i>Vriddha</i> word because it belongs to <i>tyadadi</i> class (I. I. 74). This rule debars छ of the last aphorism. In the affix, छस्, the final स् is indicatory, showing that the word भवत् before this affix gets the designation of <i>Pada</i> पद [[1.4.16]]. Thus भवत् + ठक् = भावत्कः;  भवत् + छस् = भवतीयः ॥
+
+But when the word भवत् is not treated as <i>Vriddha</i>, then it takes the general affix अण्; as भावतः ॥ This is the case when भवत् is derived by affixing शतृ to भू ॥

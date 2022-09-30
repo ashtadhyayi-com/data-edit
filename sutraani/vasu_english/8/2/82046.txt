@@ -1,0 +1,13 @@
+Thus क्षीणाः क्लेशाः; क्षीणो जाल्मः; क्षीणस्तपस्वी ॥ The vowel of क्षी is lengthened by [[6.4.60]] and [[6.4.61]].
+
+Why do we say 'when the vowel is lengthened'? Observe अक्षितमसि मामेक्षेष्ठाः ॥ The word अक्षितं is formed with क्त in the sense of भाव and means 'imperishable'. The <i>Nishtha</i> being added in the sense of ण्यत्, there is no lengthening of the vowel by [[6.4.60]].
+
+The root क्षि includes the two roots क्षि क्षये and क्षि निवासगत्यौः ॥ As क्षितः कामो मया ॥ See also the commentary of <i>Sayana</i> on अक्षि॑तोतिः सनेदि॒॒मं वाजमिन्द्रः॑ सह॒॒स्रिणं॑ ॥ (<i>Rig</i> I. 5. 9). 
+
+Objection:- The form क्षियः in the <i>sutra</i> is the Genitive singular of the root-noun क्षी ending in long ई, and will denote the root क्षी ending in long ई according to the maxim प्रकतिवदनुकरणं भवति "an imitative name (as क्षी  here) is like its original (the root क्षी)". What is then the necessity of employing the word दीर्घात् in the <i>sutra</i>? For had the root क्षि with short इ been meant, the form would have been क्षेः ॥
+
+Answer:- The <i>dhatu</i> imitative noun though taking इयङ् [[6.4.77]] as in क्षियः, includes the <i>dhatu</i> ending in short इ also, as in <i>sutra</i> [[6.4.59]], [[6.4.60]] where क्षि ending in short इ is taken.
+
+Question: If a root ending in short vowel may also be indicated by an imitative name, declined with the इयङ् augment, then why is the root जि exhibited in <i>sutra</i> [[1.3.19]] as जेः instead of जियः i. e, the <i>sutra</i> ought to have been वि पराभ्यां जियः and not वि पराभ्यां जेः ?
+
+Answer:- Here the word जि is not used as a <i>dhatu</i>-imitative word, there is no intention here to denote the verbal idea of the particular act connoted by the root जि; on the contrary, it simply expresses the mere form जि ॥

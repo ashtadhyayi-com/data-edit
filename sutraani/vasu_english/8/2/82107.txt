@@ -1,0 +1,22 @@
+The diphthongs or एच् are ए, ऐ, ओ and औ ॥ Their elements are अ + इ, and अ + उ ॥ When these diphthongs are to be prolated, at the end of a word, the diphthong is resolved into its elements, the first portion अ is prolated, and इ or उ added, as the case may be. This इ and उ, in fact, are the substitutes of the second portion, which may be इ or उ, or ए or ओ ॥
+
+This rule is not of universal application, but applies to Rules [[8.2.100]], [[8.2.97]], [[8.2.83]], and [[8.2.90]] only, according to the
+
+Vart:- The scope of this <i>sutra</i> should be determined by enumerating the rules to which it applies.
+
+Vart:- It should be stated that it applies to <i>sutras</i> [[8.2.100]], [[8.2.97]], [[8.2.83]] and [[8.2.90]].
+
+Thus [[8.2.100]]: As अगमा३: पूर्वा३न् ग्रामा३न् अग्निभूता३इ꣡ ॥ or पटा३उ꣡ ॥ भद्रं करोषि माणवका३ अग्निभूता३इ꣡ or पटा३उ꣡ ॥ So also [[8.2.97]]: होतव्यं दीक्षितस्य गृहा꣡३इ꣡ ॥ So also [[8.2.83]], as :- आयुष्मान् एधि अग्निभूता꣡३इ꣡ or पटा꣡३उ꣡ ॥ So also [[8.2.90]]:- as.
+
+उक्षाम्नाय वशाम्नाय सोमपृष्ठाय वेधसे ।
+स्तोमैर्विधेमाग्नया३इ꣡ ॥ (<i>Taitiriya</i> <i>Samhita</i>. I. 3. 14. 7).
+
+This <i>pluta</i> आ is <i>udatta</i>, <i>anudatta</i> or <i>svarita</i>, according to the particular rule which has been applied, i. e. at the end of a question it is <i>anudatta</i> or <i>svarita</i>, and every where else, <i>udatta</i>. The इ and उ are of course, always <i>udatta</i> : because the <i>anuvritti</i> of <i>udatta</i> is current here.
+
+Why do we restrict this sutra<i> to the above-mentioned four rules? Observe विष्णुभूते विष्णुभूते३ घातयिष्यामि त्वा आगच्छ भो माणवक विष्णुभूते ॥
+
+In fact, the present </i>sutra<i> being confined to the above-mentioned four rules, the words अदूराद्धूते in the </i>sutra<i>, are redundant: and should not have been used. Moreover the word पदान्त should have been used in the </i>sutra<i>, for it applies to diphthongs at the end of a </i>pada<i>. Therefore, not here, भद्रं करोषि गौरिति ॥ Here गौ before the </i>sarvanamasthana<i> affix सु is not a </i>Pada<i> [[1.4.17]].
+
+Why do we say 'when it is not a </i>Pragrhya<i>'? Observe शोभने खलु स्थःखट्वे३ ॥
+
+Vart:- This peculiar modification of </i>pluta_ vowel takes place in the Vocative case in the Vedas. As अग्ना३इ पत्नीवा३: सजूर्देवेन त्वष्ट्रा सोमं पिब ॥ Here by no other rule, the Vocative would have become prolated.

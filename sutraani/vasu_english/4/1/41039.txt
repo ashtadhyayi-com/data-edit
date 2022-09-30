@@ -1,0 +1,15 @@
+Thus of एत 'variegated'; the feminine is एता or एनी 'variegated', so श्येता or श्येनी 'black', हरिता or हरिणी 'green'. All these words have <i>udatta</i> accent on the first vowel either by Rule [[6.1.197]] (ञ्नित्यादिर्नित्यम् "word formed by affixes having an indicatory ञ् or न् have <i>udatta</i> accent on the first vowel":) because these words are formed by the <i>Unadi</i> affixes तन् (<i>Un</i> III. 86) and इतन् (III. 93), or by the <i>Phit</i> <i>sutra</i> 11. 10 (वर्णानां तणतिनितान्तानाम् "of words expressive of colour and ending in तण, or ति or नि or त, the <i>udatta</i> accent falls on the first vowel").
+
+Why do we say "expressive of color"? Observe प्रहृता, प्ररुता ॥ These words are also acutely accented on the first syllable, by rule [[6.2.49]] (गतिरनन्तरः "the first word retains its natural accent in a compound of a <i>gati</i> word with a word formed by the affix <i>kta</i>"). But as these words do not express color, their feminine does not take <i>nip</i>.
+
+Why do we say "ending in a gravely accented vowel?" Observe श्वेता 'white'. Here though the word expresses 'color', yet it has acute (instead of grave) accent on the final (by rule of <i>Phit</i> <i>sutra</i> I. 21 घृतादीनां च "the words <i>ghrita</i> &c. have <i>udatta</i> on the final").
+
+Why do we say "having the letter त as its penultimate letter"?  Otherwise the affix <i>nish</i> will be employed in forming the feminine.
+
+The words for the application of this rule must end in the letter अ in the masculine. Otherwise this rule will not apply. As शितिर्ब्राह्मणी 'a black <i>Brahmani</i> woman'. Here शिति is a word expressive of color, it has a penultimate त, has <i>anudatta</i> accent on the final [[6.1.197]] as it is formed by the affix क्तिन्; but as it does not end with अ, its feminine is not formed with <i>nip</i>.
+
+Vart:- The affix <i>hip</i> comes also after the word पिशङ्ग; as, पिशङ्गी 'of tawny color'.
+
+Vart:- There is prohibition in the case of the words असित and पलित; as असिता 'black' and पलिता 'grey'.
+
+Vart:- According to some, the substitute क्नम् replaces the final of these two words असित and पलिता in the Vedic literature. As आसिक्नी (<i>Rig</i> <i>Veda</i> IX. 73. 29); पलिक्नी (<i>R</i>. <i>Veda</i> V. 2. 4). According to some authorities, these latter forms are valid in literature other than the Vedic:- As गतो गणस्तूर्णमसिक्निकानाम् ॥

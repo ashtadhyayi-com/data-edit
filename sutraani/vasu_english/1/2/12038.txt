@@ -1,0 +1,5 @@
+By <i>sutra</i> [[1.2.37]], it was declared, that in <i>subrahmanya</i> hymns, <i>svarita</i> accent is replaced by <i>udatta</i> accent. This <i>sutra</i> makes an exception in favour of the words देव and ब्राह्मण occurring in those hymns. These words have <i>anudatta</i> accent. As देवा॒॒ ब्रह्मा॒ण आग॒॒च्छत 'come ye <i>Devas</i> and <i>Brahmanas</i>.' Here the word देवा gets <i>udatta</i> accent on the first syllable by rule [[6.1.198]] \[1\]. (in the vocative the accent is on the beginning): at वा <i>va</i> has originally an <i>anudatta</i> accent which by rule [[8.4.66]] \[2\] (an <i>anudatta</i> following an <i>udatta</i> is changed into <i>svarita</i>) would have been changed into <i>svarita</i>. This <i>svarita</i>, by the previous <i>sutra</i> required to be changed into <i>udatta</i>; but by this rule, it is replaced by <i>anudatta</i>. In other words, the original <i>anudatta</i> remains unchanged.
+
+## Footnotes
+- [1] - आमन्त्रितस्य च ॥
+- [2] - उदात्तादनुदात्तस्य स्वरितः ॥

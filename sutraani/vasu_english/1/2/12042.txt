@@ -1,0 +1,15 @@
+"<i>Karmadharaya</i> or Appositional Determinative compounds form a sub-division of the determinative compounds (<i>Tat</i>-<i>purusha</i>). In them the first portion stands as the predicate of the second portion, such as in black-beetle, sky-blue." (Max Muller).
+
+The compounds like नीलोत्पलं 'the blue lotus', परमात्मा 'the supreme spirit' &c., are examples of <i>karmadharaya</i> compounds. "The component words, if dissolved, would stand in the same case, (<i>samanadhikarana</i>), whereas in other <i>Tat</i>-<i>purushas</i>, the preceding word is governed by the last."
+
+As, परमराज्यम्, is a <i>karmadharaya</i> compound meaning "the best Government." Had it not been a <i>karmadharaya</i> compound, the <i>udatta</i> accent would have fallen on the syllable रा by rule [[6.2.130]] \[1\] ,(the word राज्यम् has <i>udatta</i> on the first syllable in <i>Tat</i>-<i>purusha</i> compounds, except in <i>karmadharaya</i>).
+
+Similarly पाचिका + वृन्दारिका = पाचकवृन्दारिका ([[6.3.42]] \[2\] ,the feminine adjective is changed into masculine in the <i>karmadharaya</i>).
+
+Each member of a compound may have the same case, but if it is not a <i>Tat</i>-<i>purusha</i> compound, it won't be <i>karmadharaya</i>. As पाचिका + भार्या = पाचिकाभार्याः. 'He who has a wife for a cook.' This is an example of a <i>Bahuvrihi</i> compound, and therefore the word पचिका retains its gender sign.
+
+A compound may be a <i>Tat</i>-<i>purusha</i>, but if its component parts do not refer to the same thing and are not in the same case, it won't be <i>karmadharaya</i>:- ब्रा॒॒ह्म॒॒ण॒॒ राज्य॑म् <i>Brahmana</i> <i>rajyam</i>, 'a <i>Brahmana</i> kingdom.' Here राज्यम् gets <i>udatta</i> on the first syllable by the rule already mentioned [[6.2.130]].
+
+## Footnotes
+- [1] - अकर्मधारये राज्यम् ॥
+- [2] — पुंवत्कर्मधारयजातीयदेशीयेषु ॥

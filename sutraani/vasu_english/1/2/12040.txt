@@ -1,0 +1,10 @@
+In the previous <i>sutra</i> it was said that an <i>anudatta</i> preceded by a <i>svarita</i> becomes <i>Ekasruti</i>. If, however, such an <i>anudatta</i> is followed by an <i>udatta</i> or a <i>svarita</i>, it does not become <i>Ekasruti</i> but becomes <i>sannatara</i>, i.e. lower than <i>anudatta</i>.
+
+The <i>sannatara</i> is therefore that accent which was originally <i>anudatta</i>, and which is preceded by a <i>svarita</i> and is followed by an <i>udatta</i> or a <i>svarita</i>. 
+
+This is one explanation of the <i>sutra</i>. There is another explanation which does not take the <i>anuvritti</i> of <i>Ekasruti</i> in this <i>sutra</i>. The <i>anudatta</i> is replaced by <i>sannatara</i> when such <i>anudatta</i> immediately precedes an <i>udatta</i> or a <i>svarita</i>. The <i>sannatara</i> is also called <i>anudatta</i>. As देवा मरुतः पृश्निमातरोपः ॥
+
+Here the word मातरः is <i>anudatta</i>. The word अपः has <i>udatta</i> on the last syllable by [[6.1.171]] \[1\]. In the phrase मातरोपः (मातरः + अपः) the syllable रो is <i>anudatta</i>, because <i>anudatta</i> + <i>anudatta</i> = <i>anudatta</i>. This <i>anudatta</i> ओ, preceding the <i>udatta</i> पः, is changed into <i>sannatara</i>.
+
+## Footnotes
+- [1] — उडिदम्पदाद्यप्पुम्रैद्युभ्यः ॥

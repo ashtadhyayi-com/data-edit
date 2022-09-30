@@ -1,0 +1,9 @@
+The reduplication is either of the first syllable or of the second syllable according as the root begins with a consonant or a vowel. Thus पच् + णल् = पच् पच् + णल् = पपाच ॥ So also पपाठ, प्रोर्ण्णुनाव ॥ In the case of ऊर्णु, Rule [[3.1.36]] does not apply, so the Perfect of this word is not formed by adding आम् and the auxiliary verbs कृ, भू and अस्; but regularly. In fact ऊर्णु is regarded as if it was नु ॥ See <i>sutra</i> [[3.1.36]] <i>Vartika</i>. वाच्य ऊर्णोर्णुवद् भावो यङ् प्रसिद्धिः प्रयोजनं, आमश्च प्रतिषेधार्थमेकाचश्चेडुपग्रहात् ॥
+
+Why do we say when लिट् follows? Observe कर्त्ता, हर्त्ता ॥ Why do we say "of a <i>Dhatu</i>"? Observe ससृवांसो विशृण्विरे, सोममिन्द्रायसुन्विरे ॥ The question arises from the fact that the root (<i>dhatu</i>) always directly precedes the affixes of the Perfect, no <i>vikarana</i> intervenes as in the case of other tenses. So there was no necessity of using the word <i>dhatu</i> in the <i>sutra</i>. To this it is replied that by [[3.4.117]], sometimes लिट् is treated as <i>sarvadhatuka</i>, and then it takes <i>vikarana</i>. As श्रु taking the <i>vikarana</i> श्नु becomes शृणु; [[3.1.74]] this whole base is not a <i>dhatu</i>, therefore when the affixes of Perfect are added there is no reduplication, and we have शृन्विरे ॥ See [[3.4.117]].
+
+Why do we say 'of a non-reduplicate'? Observe कृष्णो नोनाव वृषभो यदीदम् । नोनूयतेर्नोनाव, i.e. it is the Perfect Tense of the Intensive verb नोनूय, and is not reduplicated again, यङ् having already caused reduplication. So also संमान्या मरुतः समिमिक्षुः ending in the उस् of the Perfect.
+
+Vart:- In the <i>Chhandas</i> there is optionally reduplication of the root in the Perfect and other tenses. As आदित्यान् याचिषामहे or यियाचिषामहे; देवतानो दाति प्रियाणि or ददाति प्रियाणि ॥ मघवा दातु or ददातु, नस्तुतो वीरवद् धातु or दधातु ॥
+
+Vart:- The root जागृ is optionally reduplicated in the Perfect. As, यो जागार (or जजागार) तमृचः कामयन्ते ॥

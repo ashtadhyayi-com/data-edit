@@ -1,0 +1,41 @@
+Ist., <i>su</i> (<i>s</i>), <i>au</i>, <i>jas</i> (<i>as</i>)
+2nd., <i>am</i>, <i>aut</i> (<i>au</i>), <i>sas</i> (<i>as</i>)
+3rd., <i>ta</i> (<i>a</i>), <i>bhyam</i>, <i>bhis</i>
+4th., <i>ne</i> (<i>e</i>), <i>bhyam</i>, <i>bhyas</i>
+5th., <i>nasi</i> (<i>as</i>), <i>bhyam</i>, <i>bhyas</i>
+6th., <i>nas</i> (<i>as</i>), <i>os</i>, <i>am</i>
+7th., <i>ni</i> (<i>i</i>), <i>os</i>, <i>sup</i> (<i>su</i>)
+
+In the above affixes, letters like उ in सु 'anubandhas' employed either for the sake of facility of pronunciation, or as distinguishing marks. The final प् is employed for the sake of forming the <i>pratyahara</i> सुप्, which is the collective name for the above 21 case-affixes. The force and meaning of these affixes have already been explained in a former part of this work; and therefore, need not be repeated here. We shall now give examples of the application of these affixes to words formed by ङीप्, as, कुमारी; by ङीष् as, गारी; by ङीन् as शार्ङ्गरवी; by टाप् as खट्वा; by डाप् as बहुराजा; and by चाप् as कारीषगन्ध्या; and lastly to a <i>pratipadika</i> as दृषद् ।
+
+ कुमारी ।
+
+Ist, कुमारी, कुमार्यौ, कुमार्यः
+2nd, कुमारीम्, कुमार्यौ, कुमारीः
+3rd, कुमार्या, कुमारीभ्याम्, कुमारीभिः
+4th, कुमार्यै, कुमारीभ्याम्, कुमारीभ्यः
+5th, कुमार्याः, कुमारीभ्याम्, कुमारीभ्यः
+6th, कुमार्याः, कुमार्योः, कुमारीणाम्
+7th, कुमार्याम्, कुमार्योः, कुमारीषु
+
+खट्वा ।
+
+Ist, खट्वा, खट्वे, खट्वाः
+2nd, खट्वाम्, खट्वे, खट्वाः
+3rd, खट्व्या, खट्वाभ्याम्, खट्वाभिः
+4th, खट्वायै, खट्वाभ्याम्, खट्वाभ्यः
+5th, खट्वायाः, खट्वाभ्याम्, खट्वाभ्यः
+6th, खट्वायाः, खट्वयोः, खट्वानाम्
+7th, खट्वायाम्, खट्वयोः, खट्वासु
+
+दृषद् ।
+
+Ist, दृषद्, दृषदौ, दृषदः
+2nd, दृषदम्, दृषदौ, दृषदः
+3rd, दृषदा, दृषद्भ्याम्, दृषद्भिः
+4th, दृषदे, दृषद्भ्याम्, दृषद्भ्यः
+5th, दृषदः, दृषद्भ्याम्, दृषद्भ्यः
+6th, दृषदः, दृषदोः, दृषदाम्
+7th, दृषदि, दृषदोः, दृषत्सु
+
+The words गौरी and शार्ङ्गरवी are declined like कुमारी; and बहुराजा  and कारीषगन्ध्या are declined like खट्वा ॥

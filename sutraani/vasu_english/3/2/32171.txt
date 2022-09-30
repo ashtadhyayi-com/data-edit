@@ -1,0 +1,11 @@
+The द् after आ is either for the sake of euphony, or for the sake of precision. Had it been त्, then by the rule of तपर [[1.1.70]] short ऋ would only be included and not long ॠ. But the present rule is applicable to long ॠ as well.
+
+Thus पा + कि = पपिः 'drinking'; as पपिः सोमं  'drinking the <i>soma</i>-juice'; ददिर्गाः 'giving cows' (<i>Rig</i>. <i>Ved</i>. VI. 23. 4). मित्रावरुणौ ततुरिः (<i>Rig</i>. <i>Ved</i>. IV. 39. 2, VI. 68. 7). दूरे अध्वाजगुरिः (<i>Rig</i>. <i>Ved</i>. X. 108. I). गम् + किन् = जग्मिः 'being in constant motion, wind'; जग्मियुवा (<i>Rig</i>. <i>Ved</i>. II. 23. 11); हन् + किन् = जघ्निः 'killing, a weapon offensive'; जघ्निवृत्रम् (<i>Rig</i>. <i>Ved</i>. IX. 61. 2); जन् + किन् = जघ्निः as जज्ञिबीजम् (T.S. VII. 5. 20. I).
+
+The letter क् in these affixes is indicatory. It might be said 'it is superfluous to make these affixes कित्, because these being treated like लिट् will be कित् by rule (1. 2. 5)'. True, they would be कित् by the rule [[1.2.5]], but then the rule [[7.4.11]]. (when <i>lit</i> follows, <i>guna</i> is the substitute of the verb ॠच्छ and of those that end in the long ॠ) would also have applied to these affixes, and would have caused <i>guna</i>. It is to prevent this <i>guna</i> of the letter ॠ that we have annexed an indicatory क to these affixes.
+
+Vart:- The affixes कि and किन् are of universal application in the <i>Chhandas</i>, and not confined to the verbs enumerated in the <i>sutra</i>, as we see them in सद् &c.; as सेदिः (<i>Yaj</i>. <i>Ved</i>. XII. 105); नेमिः (<i>Rig</i>. <i>Ved</i>. II. 5. 3).
+
+Vart:- The affixes कि and किन् come after the roots धाञ्, कृञ्, सृ, जमि, गमि, and नमि in the secular literature also; as, दधिः, चक्रिः, सस्रिः, जज्ञिः, जग्मिः ,नेमिः ।
+
+Vart:- The affixes कि and किन् come after the Intensive (यङन्त) roots of सह्, यह्, चल् and यत्. As, सासहिः, वावहिः, चाचलिः, यायतिः [[7.4.83]].

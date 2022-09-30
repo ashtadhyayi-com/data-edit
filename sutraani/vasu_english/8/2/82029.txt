@@ -1,0 +1,15 @@
+A conjunct consonant, having स for क as its first member, when coming at the end of a <i>Pada</i>, or when followed by a <i>jhal</i> beginning affix, loses its स् or क् ॥ Thus from the root लस्ज् we have लग्नः and लग्नवान् before the <i>jhal</i> affix त and तवत्; the substitution of न् for त् is considered <i>asiddha</i> for this purpose [[8.2.1]]. So also साधुलक् at the end of a <i>Pada</i>. Similarly मग्नः मग्नवान्, साधुमक् from मस्ज् ॥ So also with initial क्, as तट् from तक्ष्; so also तष्टः, तष्टवान्, काष्ठतट् ॥
+
+Vart:- It should be rather stated that "before a <i>jhal</i> affix included in the <i>pratyahara</i> सङ्" ॥ The सङ् is a <i>pratyahara</i> formed with the स of सन् [[3.1.5]] and the ङ् of महिङ् [[3.4.78]]. It thus includes all the <i>krit</i> affixes, and <i>dhatu</i> affixes i. e. affixes which come after a verb and not the <i>Taddhita</i> or the Feminine affixes. This <i>Vartika</i> applies to all the preceding <i>sutras</i> of this sub-division and is of use in the following places.
+
+गिरोऽभोधिर्द्विष्टरां च दृषत्स्थः काष्ठशक्स्थिरः । कुञ्चाघुर्येति मा स्मैषु सत्वादीनि भवांत्विति ॥
+
+So that in गिरः there should not be the optional ल by [[8.2.21]]. In अभोधिः, the स् of अभस् is not elided before धि as required by [[8.2.25]]. In द्विष्टरां the rule [[8.2.27]] does not apply. In दृषत्स्थः the rule [[8.2.26]] does not apply. In काष्ठशक्स्थिरः the rule [[8.2.29]] is non-applicable. In क्रुञ्चा the rule [[8.2.30]] does not apply. In धुर्यः (धुरं वहति) there is not lengthening by [[8.2.77]]. Thus काष्ठशक्स्थाता ॥ Here क् would require to be elided as initial in a consonant, followed by a <i>jhal</i> consonant थ ॥ काष्ठशक् is formed by adding क्विप् to शक् ॥ But according to <i>Patanjali</i>, there can be formed no valid word from शक् with क्विप्, a fortiori, no such word can be formed as काष्ठशक्स्थाता (काष्ठशकि तिष्ठति).
+
+In वास्यर्थम्, काक्यर्थम्, the स् and क् are not elided, because य् is a <i>Bahiranga</i> substitute and <i>asiddha</i>, and the word वास्य् काक्य् are not considered as <i>Pada</i>, ending in a conjunct consonant.
+
+Why do we say "of स् and क्"? Observe नर्नर्त्ति, वर्वर्त्ति ॥
+
+Why do we say 'initial in a conjunct consonant'? Observe पयः शक् ॥
+
+Why do we say 'at the end of a word'? Observe तक्षिता, तक्षकः ॥
