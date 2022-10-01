@@ -1,3 +1,4 @@
+When the सर्वनाम follows a Nominative 1st-Case, which itself is preceded by another word, then the above substitutions may take place optionally.
 Thus ग्रामे कम्बलस्ते स्वम् or ग्रामे कम्बलस्तवस्वम् ॥ ग्रामे कम्बलोमेस्वम् ॥ ग्रामेकम्बलोममस्वम् ॥ ग्रामकम्बलस्ते दीयते ॥ ग्रामे कम्बलस्तुभ्यं दीयते ॥ ग्रामे कम्बलो मे दीयते ॥ ग्रामे कम्बलो मह्यं दीयते ॥ ग्रामे छात्रास्त्वा पश्यन्ति ॥ ग्रामे छात्रास्त्वां पश्यन्ति ॥ ग्रामे छात्रा मा पश्यन्ति ॥ ग्रामे छात्रा मां पश्यन्ति ॥
 
 Why do we say "which itself is preceded by another word"? Observe कम्बलस्ते स्वम्, कम्बलो मे स्वम् ॥

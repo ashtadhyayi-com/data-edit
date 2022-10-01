@@ -1,3 +1,4 @@
+This substitution of अह्न for अहन् does not take place after a numeral when it forms a collective noun meaning a number of days taken as a unity.
 This substitution is prohibited in the case of <i>Samahara</i>-<i>Tatpurusha</i>. Thus द्वे अहनी समाहृते = द्व्यहः, so also त्र्यहः ॥ Here rule [[5.4.9]] applies.
 
 Why do we say "when meaning a collective noun?" Observe द्वयोरह्नोर्भवो = द्व्यह्नः, त्र्यह्नः ॥ This is a <i>Taddhitartha</i> <i>Dvigu</i> compound formed by (II 1. 51); the affix अण् denoting तत्र भवः [[4.3.53]] is elided by [[4.1.88]]: and the final अन् of अहन् is elided by [[6.1.145]].

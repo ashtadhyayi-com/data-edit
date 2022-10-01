@@ -1,3 +1,4 @@
+The affix अण् comes after a verbal root when the object (or whatever sort it may be), is in composition with it (an an उपपद).
 The object or <i>karma</i> is of three sorts, namely <i>nivartya</i>, <i>vikarya</i> and <i>prapya</i>.
 
 The object which has a material cause, but such cause is however unexpressed in the sentence, is called <i>nivartya</i> object; as कुम्भम् करोति 'he makes a pot'; here मृत् 'mud' the material cause of कुम्भ is unexpressed, therefore, कुम्भ is <i>nivartya</i> object. Where the material cause itself is changed, by a modification, into something else, such an object is called <i>vikarya</i> object; as काण्डलावः 'the branch-cutter'. While the object which cannot be approached by any action, and is not affected by it, but is always constant, is called the <i>prapya</i> object; as a वेदाध्यायः 'the reading of <i>Veda</i>'; the <i>Veda</i> is always the same.

@@ -1,3 +1,4 @@
+A स्वरित vowel is the substitute of an अनुदात्त vowel when the latter follows after such a semi-vowel which has replaced an उदात्त (acute accent) or a स्वरित vowel.
 An unaccented vowel becomes <i>svarita</i>, when it comes after a यण् (semi-vowel), which यण् itself has come in the room of a vowel which was acute or <i>svarita</i> once.
 
 Let us first take the vowel following an <i>udatta</i> <i>yan</i>. Thus कुमा॒॒र्यौ॑, कुमा॒॒॑र्यः ॥ The word कुमारी꣡ is acutely accented on the final, because the long ई (ङीप्) replaces अ꣡ of कुमार [[6.1.161]]. The semi-vowel य् is substituted in the room of this acute ई꣡; the <i>anudatta</i> आ and अः become <i>svarita</i> after such a य् ॥

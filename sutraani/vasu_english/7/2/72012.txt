@@ -1,3 +1,4 @@
+The Desiderative affix सन् does not get the augment इट् , not only after roots ending in 1. उ 2. ऊ 3. ऋ and 4. ॠ but also after ग्रह and गुह।
 As जिघृक्षति, जुघुक्षति, रुरूषति, लुलूषति ॥ The <i>anuvritti</i> of श्रि is not drawn into this <i>sutra</i>, as option is allowed regarding it by (VII 2. 49). ग्रह would always get इट्, गुह् (1. 944) being ऊदित् (in the <i>Dhatupatha</i>), would have optionally taken इट् [[7.2.44]]
 
 The forms जिघृक्षति and जुघुक्षति are thus evolved :- ग्रह् + सम् (the affix is कित् by [[1.2.8]]) = गृह् + सन् (VI. I. 16) = गृढ् + सन् [[8.2.31]] = गृक् + सन् [[8.2.41]] = जिघृक्षति [[8.2.37]]. So also with गुहू संवरणे, the सन् is कित् here by [[1.2.10]].

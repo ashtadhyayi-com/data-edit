@@ -1,3 +1,4 @@
+The स् is elided when it is preceded by a झल् consonant (all consonant except semi-vowels and nasals) and is followed by an affix beginning with a झल् consonant.
 Thus अभित्त for अभित्स्त, अभित्थाः for अभित्स्थाः ॥ So also अच्छित्त, अच्छित्थाः, अवात्ताम्, अवात्त ॥ The last example may also be explained by [[7.4.49]]; the elision of the स of सिच् being considered as <i>asiddha</i>, the स् of the root is changed to त् ॥
 
 Why do we say 'of a <i>jhal</i> consonant'? Observe अमंस्त and अमंस्थाः ॥ Why do we say followed by a <i>jhal</i> consonant ? Observe अभित्साताम्, अभित्सत ॥

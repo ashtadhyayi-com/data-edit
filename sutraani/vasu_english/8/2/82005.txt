@@ -1,3 +1,4 @@
+The single substitute of an unaccented with an उदात्त (acute accent) vowel is उदात्त।
 The word "of an <i>anudatta</i>" is understood here. An unaccented vowel, which combined with the preceding <i>udatta</i> vowel remains as a single substitute, becomes <i>udatta</i>. Thus for the <i>udatta</i> इ of अग्नि꣡ and for the case-ending औ which is <i>anudatta</i>, there is always substituted long ई single by [[6.1.102]]. This single substitute will be <i>udatta</i> according to the present sutra<i>, as अग्नी꣡ ॥ Similarly वायू꣡, वृक्षैः꣡, प्लक्षैः꣡ ॥
 
 Why do we say "with </i>udatta<i> vowel"? Observe पचन्ति, यजन्ति ॥ Here पच् + शप् + अन्ति = प꣡च् + अ + अन्ति । Here शप् is </i>anudatta<i> by [[3.1.4]], so also अन्ति by [[6.1.186]]. The </i>ekadesa<i> of these two non-accented अ will be </i>anudatta<i>. In forming this </i>para<i>-</i>rupa<i> </i>ekadesa<i> by [[6.1.97]], the </i>svarita<i> of the अ of शप् caused by [[8.4.66]] is considered as invalid or </i>asiddha<i>.

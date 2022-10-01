@@ -1,3 +1,4 @@
+There is the single substitution of the first vowel for the vocalised semi-vowel and the subsequent vowel.
 The word पूर्व is understood here. When a vocalised semi-vowel is followed by a vowel, the vocalised vowel is alone substituted, the subsequent vowel merging in it. Thus यज् + क्त = इअज् + क्त [[6.1.15]] = इष्टम् (इ + अ = इ); so उप्तम् (वप् + क्त = उअय् + त), ग्रह् + इत = गृअह् + इत = गृहीतं ॥
 Had there not been this merging, the vocalisation would become either useless or the two vowels would have been heard separately without <i>sandhi</i>. Thus in वप् + त = उअप् + त, if the अ did not merge in उ, then it would cause <i>sandhi</i>, and उ would be changed to व् by इकोयणचि and the word would again assume the form वप् ॥ But this यणादेश would causes <i>samprasarana</i> rule non-effective, hence it follows that but for the present rule, the two vowels would have been heard separately as उ अप्त ॥
 

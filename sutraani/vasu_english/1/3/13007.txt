@@ -1,3 +1,4 @@
+The initial palatals and linguals of an affix are indicatory.
 The consonants च्, छ्, ज्, झ्, ञ्, ट्, ठ्, ड्, ढ्, and ण्, are always इत् and are rejected when initial in affixes. The word 'affix' of the previous <i>sutra</i> governs this also.
 
 As the affix च्फञ् <i>chapan</i> in <i>sutra</i> [[4.1.98]] गोत्रे कुञ्जादिभ्यश्चफञ्. Here च् is indicatory, as, कौञ्चायन्यः ॥ The initial छ् <i>chh</i> of an affix is always replaced by ईय [[7.1.2]] आयनेयीनीयियः फढ खच्छघां प्रत्ययादीनाम्). The initial ज् of an affix is इत्. As, जस् (Nom. Pl. term) ब्राह्मणाः ॥ The initial झ् of an affix is always replaced by अन्त, as भू + शप् + झि = भवन्ति ॥ [[7.1.3]] झोऽन्तः). The initial ञ् of an affix is इत् as in ञ्य which comes after the words शण्डिक &c. As शाण्डिक्यः [[4.3.92]] शण्डिकादिभ्योञ्यः). The indicatory ञ् causes <i>vriddhi</i> by rules [[7.2.115]], [[7.2.116]] and [[7.2.117]]: (अचोञ्णिति, अतउपधायाः, तद्धितेष्वचामादेः).

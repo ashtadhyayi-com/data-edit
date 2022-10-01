@@ -1,3 +1,4 @@
+The words विस्पष्ट etc. preserve their accent when followed by an adjective word in a compound.
 Thus वि꣡स्पष्ट कटुकम्, वि꣡चित्रकटुकम् व्य॑क्तकटुकम्, वि꣡स्पष्टलवणम्, विचित्रलवणम्, व्य॑क्तलवणम् ॥ The compounding takes place by [[2.1.4]], and it should be analysed thus विस्पष्टं कटुकम् &c.
 
 The words विस्पष्ट &c, are indeed here adjectives, and in conjunction with कटु &c, they denote an object possessing those qualities; and therefore not being in apposition, the compound is not a <i>Karmadharaya</i>.

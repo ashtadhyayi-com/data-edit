@@ -1,3 +1,4 @@
+For the विसर्ग of a word ending in अस् with the exception of an indeclinable, स् is substituted in a compound when a form of कृ and कम् or the words 1. कंस 2. कुम्भ 3. पात्र 4. कुशा and 5. कर्णी follow and the first word is not preceded by another word.
 Thus कृ :- अयस्कारः, पयस्कारः [[3.2.1]] कम् :- अयस्कामः, पयस्कामः, कंस :- अयस्कंसः, पयस्कंसः, कुम्भः, - अयस्कुम्भः पयस्कुम्भः ॥ So also अयस्कुम्भी पयस्कुम्भी, on the maxim प्रातिपदिकग्रहणे लिङ्गविशिष्टस्यापि ग्रहणं भवति ॥ पात्र :- अयस्पात्रम्, पयस्पात्रम्, अयस्पात्री, पयस्पात्री कुशा :- अयस्कुशा, पयस्कुशा ॥ कर्णी :- अयस्कर्णी, पयस्कर्णी ॥ The form शुनस्कर्णः belongs to <i>Kaskadi</i> class [[8.3.48]].
 
 Why do we say अतः "a <i>visarga</i> preceded by short अ, or the <i>visarga</i> of the word ending in अः"? See गीःकारः, धूःकारः ॥ Why do we say 'preceded by short अ'? Observe भाःकरणम् ॥ The form भास्करः belongs to <i>Kaskadi</i> class [[8.3.48]]. See also [[3.2.2]].

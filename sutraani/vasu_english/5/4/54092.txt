@@ -1,3 +1,4 @@
+The affix टच् comes after गो standing at the end of a तत्-पुरुष समास when no elision of a तद्धित-affix has taken place in forming such a समास ।
 Thus परमगवः, उत्तमगवः, पंचगवम्, दशगवम् ॥ Why do we say "when no <i>Taddhita</i> affix has been elided in forming the compound?" Observe, पंचभिर्गोभिः क्रीतः = पंचगुः (Here the affix ठक् [[5.1.37]] is elided by [[5.1.28]] and hence the <i>samasanta</i> affix टच् is not added). So also दशगुः ॥
 
 Why do we say "when a <i>Taddhita</i> is elided"? The prohibition does not apply when a सुप् affix is elided : as राजगवमिच्छति = राजगवीयति [[3.1.8]] and [[2.4.71]].

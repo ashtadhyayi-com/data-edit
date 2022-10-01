@@ -1,3 +1,4 @@
+The विसर्ग is changed to स् in the छन्दस् (Vedas) before 1. कः 2. करत् 3. करति 4. कृधि and 5. कृतः but not so in the विसर्ग of अदितिः।
 Thus विश्वतस्कः ॥ कः is the Aorist of कृ, the च्वि has been elided by [[2.4.80]]: the ऋ of कृ is <i>gunated</i> before the affix तिप्, thus we have कर्त्, the त् is elided by [[6.1.68]]; and the augment अट् is not added by [[6.4.75]]. Similarly विश्वतस्करत् ॥ Here also करत् is the Aorist of कृ, with अङ् by [[3.1.59]]. पयस्करति, here करति is the लट् of कृ; शप् is added instead of उ, as a Vedic anomaly. उरणस्कृधि, here कृधि is the imperative of कृ, the सि is changed to हि, the <i>vikarana</i> is elided, and हि changed to धि by [[6.4.102]]. See [[8.4.27]], for the change of न to ण ॥ सदस्कृतम्, here कृतम् is Past Participle of कृ ॥
 
 Why do we say 'but not of अदितिः'? Observe यथा नो अदितिः करत् (<i>Rig</i>. I. 43. 2).

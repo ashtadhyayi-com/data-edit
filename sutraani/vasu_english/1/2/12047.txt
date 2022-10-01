@@ -1,3 +1,4 @@
+The short vowel is substituted in the neuter, for the final vowel, of a प्रातिपदिक।
 In the neuter gender, the <i>pratipadika</i> that would have ended in a long vowel, changes it into short. Thus अति + रै = अतिरि 'extravagant', as अतिरि = कुलम् 'an extravagant family'; अति लो = अतिलु 'very hairy', अतिलुं कुलं 'a very hairy family.'
 
 There is no substitution of short vowel, if the noun is not in the neuter gender, as ग्राम + नी = ग्रामणी, nom case ग्रामणीः 'the leader of a village or head-borough.' Similarly सेनानीः 'the leader of an army.'

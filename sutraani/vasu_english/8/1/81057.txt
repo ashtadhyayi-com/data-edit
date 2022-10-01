@@ -1,3 +1,4 @@
+A finite verb retains its accent when it is not preceded by a गति Particle -- गतिश्च [[1.4.60]] etc., and when it is followed by 1. चन 2. चिद् 3. इव 4. गोत्र etc., a तद्धित affix, or by its own doubled form.
 Thus देवदत्तः पचति चन; देवदत्तः पचति चित्, देवदत्तः पचतीव ॥ The list of <i>Gotradi</i> words is given under <i>sutra</i> [[8.1.27]]. Thus देवदत्त पचति गोत्रम्, देवदत्तः पचति ब्रुवम्, देवदत्त पचति प्रवचनम् &c. The <i>Gotradi</i> words, here also, denote censure and contempt.
 
 With a <i>Taddhita</i> affix, देवदत्तः पचति कल्पम्, देवदत्तः पचति रूपम् ॥ The examples should be given with <i>anudatta</i> <i>Taddhita</i> affixes, like रूपप्, कल्पप् [[5.3.65]] and [[5.3.67]]. Any other <i>Taddhita</i> affix added to the verb would cause the verb to lose its accent, the <i>Taddhita</i> accent overpowers the verb accent: as पचतिदेश्य [[5.3.67]].

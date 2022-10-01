@@ -1,1 +1,2 @@
+The penultimate vowels of a अङ्ग (stem) ending in इन् , हन् , पूषन् or अर्यमन् are lengthened before the सु of the Nominative 1st-Case singular but not in Vocative Case singular.
 Thus दण्डी, वृत्रहा, पूषा, अर्यमा ॥ The न् is elided by [[8.2.7]], and the case-affix by [[6.1.68]]. in the Vocative singular we have हे दण्डिन्, हे पूषन्, हे वृत्रहन्, हे अर्यमन् ॥

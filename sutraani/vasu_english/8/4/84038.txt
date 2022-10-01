@@ -1,3 +1,4 @@
+The न् is not changed to ण् when a पद intervenes between the cause of the change and the word containing the न्।
 The word पदव्यवाय is a compound meaning पदेन व्यवाय 'separated by a <i>Pada</i>'. Thus माषकुम्भवापेन, चतुरङ्गयोगेन, प्रावनद्धम्, पर्यवनद्धम्, प्रगान्नयामः, परिगान्नयामः ॥ Here the <i>Padas</i> कुम्भ, अङ्ग, अव &c, intervening, the change does not take place.
 
 Vart:- It should be stated when there is separation by a <i>Pada</i>, except in a <i>Taddhita</i>. Prohibition does not apply to words like आर्द्रगोमयेण, शुष्कगोमयेण ॥ Here गो takes the affix मयट् by [[4.3.145]], and the word गो is a <i>Pada</i> by [[1.4.17]], and it intervenes between मय and the first word. The author of <i>Mahabhashya</i> however does not approve of this <i>Vartika</i>. According to him the word पदव्यवाय means पदे व्यवाय ॥

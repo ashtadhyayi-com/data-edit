@@ -1,3 +1,4 @@
+There is elision of ढ् when ढ् follows.
 Though this <i>sutra</i> is read in the division of Grammar which is governed by पदाधिकार, yet this elision takes place only then when the ढ is not at the end of a <i>pada</i>. Thus लीढ from लिह् + त ॥ The ह is changed to  ढ by [[8.2.31]], and the त is first changed to ध by [[8.2.40]], and then to ढ by [[8.4.41]]. Thus लिढ् + ढ ॥ The first ढ् is elided by this <i>sutra</i>. Similarly मीढम्, उपगूढम् ॥ The change of ध into ढ by [[8.4.41]], should be considered as valid and <i>siddha</i> for the purposes of this rule, otherwise this rule will find no scope.
 
 Objection:- It will find scope before that ढ which is primary, as in श्वलिढ् + ढौकते, where ढ of ढौकते is primary.

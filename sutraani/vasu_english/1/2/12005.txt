@@ -1,3 +1,4 @@
+ The affixes of लिट् (Perfect Tense) not coming after a conjunct consonant, are as if they had an indicatory क् (कित्).
 With this <i>sutra</i> begins the description of affixes which are regarded as कित् though not actually having a क् to mark them as such. The terminations of लिट् (Perfect) not being पित् terminations, are कित्, after verbs that have no compound consonants. The phrase अपित् (not being marked with प्) qualifies this <i>sutra</i> also, being drawn from the previous <i>sutra</i> by the rule of <i>Anuvritti</i>.
 
 Thus from भिद् 'to tear' the Reduplicated non <i>pit</i> second person perfect is बिभिदतुः 'thou hast torn.' बिभिदुः 'They have torn.'

@@ -1,3 +1,4 @@
+A word which is one fixed case, (while the word compounded with it may vary its case) is also उपसर्जन , except for the purposes of the the rule which requires the उपसर्जन to stand first in a compound.
 A word which in the analytical statement of the sense of a compound has one fixed case, whilst the word with which it is compounded may vary its case, is also called <i>upasarjana</i>, but does not necessarily stand first.
 
 That which has one fixed case-termination is called <i>eka</i>-<i>vibhakti</i>, i.e., a word whose case termination has been determined by a rule of <i>samasa</i> i.e., while the second word in composition with it may take many case-affixes, it takes only one case affix; <i>apurva</i>-<i>nipate</i>, such a word will be an <i>upasarajana</i> for all purposes, except for the purpose of the rule [[2.2.30]] \[1\]which requires an <i>upasarjana</i> to stand first in a compound.

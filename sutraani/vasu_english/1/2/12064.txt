@@ -1,3 +1,4 @@
+Of the words having the same form and all in the same one case-termination, the last one is only retained.
 This is a very important <i>sutra</i>, and deals with what is technically called <i>Ekasesha</i> (or retention of one). When there are two or more words of the same form, and the same case termination, standing together, one is retained and the rest are dropped. Thus वृक्षः + वृक्षः = वृक्षौ (trees, in dual) वृक्षः + वृक्षः + वृक्षः = वृक्षाः.
 
 Every individual thing requires an individual word to express it; one word therefore could not express many things; to prevent the repetition of the same word to express many objects of similar form, is the purpose of this <i>sutra</i>, by which one word is only retained.

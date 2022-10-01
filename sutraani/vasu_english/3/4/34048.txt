@@ -1,3 +1,4 @@
+The affix णमुल् comes after the roots having the sense of हिंस 'to injure, to strike' when the object of this gerund is the same as the object of the main verb and when the noun with which it is compounded ends with the Instrumental -3rd case-affix.
 Thus दण्डोपघातम् गाः कालयति 'he collects together cows, beating them with a club'. The compounding is optional [[2.2.21]]. Thus we have also दण्डेनोपघातम् । Similarly with other verbs having the sense of हिंस; thus, दण्डताडम् or दण्डेन ताडम् ।
 
 Why do we say 'when the object of the gerund is the same as the object of the main verb'? When the objects are different, णमुल् will not be employed. Thus चोरम् दण्डेनोपहत्य, गोपालको गाः कालयति 'having beaten the thief with the club, the cowherd collects together the cows'.

@@ -1,3 +1,4 @@
+The affixes शतृ and शानच् are substitutes of लट् (Present Tense) when agreeing with what does not end with the 1st (Nominative Case) case-affix.
 As पचमानं देवदत्तं पश्य 'behold <i>Devadatta</i> who is cooking'; पचता कृतम् or पचमानेन कृतम् 'done by one who is cooking'. पच् + शानच् = पच् + शप् + शानच् [[3.4.113]], [[3.1.68]] = पच् + अ + मुक् + आन [[7.2.82]] = पचमान । So also पच् + शप् + शतृ = पच् + अ + अत् = पचत् ।
 
 Why do we say 'when agreeing with what does not end with the first case-affix' ? Observe देवदत्तः पचति '<i>Devadatta</i> cooks'.

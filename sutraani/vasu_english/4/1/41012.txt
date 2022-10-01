@@ -1,3 +1,4 @@
+The affix ङीप् is not used to denote the feminine after a बहुव्रीहि समास ending in अन्।
 This refers to those <i>Bahuvrihi</i> compounds in which the penultimate is not elided. Of the <i>Bahuvrihi</i> compounds which lose their penultimate letter, it is optional to employ this affix or not; as it will be taught in (IV. I. 28). Thus सुपर्वन् 'possessed of beautiful joints' is both masculine and feminine. As सुपर्वा, सुपर्वाणौ, सुपर्वाणः; so also सुशर्मा, सुशर्माणौ and सुशर्माणः ॥ In these cases the penultimate अ of वन् or मन् is not elided. See [[6.4.137]].
 
 Why do we say "after <i>Bahuvrihi</i> compounds" ? Because after any other compouds, this rule will not apply. As अतिराजन् is an <i>Avyayibhava</i> compound, its feminine will be अतिराजी ॥

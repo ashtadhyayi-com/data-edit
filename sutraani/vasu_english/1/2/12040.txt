@@ -1,3 +1,4 @@
+The accent called सन्नतर is substituted in the room of an अनुदात्त vowel, which has an उदात्त or स्वरित vowel following it.
 In the previous <i>sutra</i> it was said that an <i>anudatta</i> preceded by a <i>svarita</i> becomes <i>Ekasruti</i>. If, however, such an <i>anudatta</i> is followed by an <i>udatta</i> or a <i>svarita</i>, it does not become <i>Ekasruti</i> but becomes <i>sannatara</i>, i.e. lower than <i>anudatta</i>.
 
 The <i>sannatara</i> is therefore that accent which was originally <i>anudatta</i>, and which is preceded by a <i>svarita</i> and is followed by an <i>udatta</i> or a <i>svarita</i>. 

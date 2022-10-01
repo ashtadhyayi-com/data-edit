@@ -1,3 +1,4 @@
+The परस्मैपद आर्धधातुक affixes beginning with स् do not get the इट् augment after वृत् and the three roots (वृध् , शृध् and स्यन्द्) that follow it.
 Thus वृत् — वर्त्स्यति, अवर्त्स्यत्, विवृत्सति । वृध् वर्त्स्यति, अवर्त्स्यत् । विवृत्स्सति । शृधू । शर्त्स्यति । अशर्त्स्यत् । शिशृत्सति । स्यन्दू । स्यन्त्सति । अस्यन्त्स्यत् ।
 
 The वृतादि roots are four वृत्, वृध्, शृध् and स्यन्द (<i>Bhuadi</i> 795-798). In the examples, the <i>Parasmaipada</i> forms are shown, because these roots are optionally <i>Parasmaipadi</i> by [[1.3.92]] before स्य and सन् ॥

@@ -1,3 +1,4 @@
+आयन् for 1. फ् 2. एय् for ढ् 3. ईन् for ख् 4. ईय् for छ् and इय् for घ are substituted when these consonants stand in the beginning of an affix.
 Thus फक् [[4.1.99]] = आयन, as नड + फक् = नाडायनः, चारायणः ॥ ढक् [[4.1.120]] = एय as सौपर्णेयः, वैनतेयः ॥ ख [[4.1.139]] ईन, as आढ्यकुलीनः, श्रोत्रियकुलीनः ॥ छ [[4.2.114]] = ईय, as गार्गीयः, वात्सीयः ॥ घ [[4.1.138]] = इय, as क्षत्रियः ॥
 
 Why do we say 'of an affix'? Observe फक्कति, ढौकते, खनति, छिनति and घूर्णते, where these consonants are in the beginning of a root. Why do we say 'in the beginning'? Observe उरुदघ्नम् जानुदघ्नम्, where घ is in the middle of the affix; and remains consequently unchanged.

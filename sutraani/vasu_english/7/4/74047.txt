@@ -1,3 +1,4 @@
+त् is substituted for the घु - दाधा घ्वदाप् [[1.1.20]], before a कित् affix beginning with त when a preposition ending in a vowel preceded it.
 The examples under the present <i>sutra</i> are प्रत्तं, अवत्तं, नीत्तं, परीत्तं ॥ For the lengthening see [[6.3.124]]. Why do we say 'ending in a vowel'? Observe निर्दत्तम् दुर्दत्तम् ॥ Why 'after an <i>Upasarga</i> only'? Observe दधि दत्तम्, मधु दत्तम् ॥ Why 'the दा called <i>Ghu</i>'? Observe अवदात्तं from दैप् ॥
 
 Objection: The word उपसर्गात् in the <i>sutra</i> is in the Ablative case, and by [[1.1.67]], the substitute त् should replace only the first letter of दा, how does it replace the whole ?

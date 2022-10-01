@@ -1,3 +1,4 @@
+And when an affix with an initial य् or an initial vowel, being one of the affixes, beginning with सु and ending in क् , follows, not being सर्वनामस्थान , then what precedes, is called भ।
 This debars the application of <i>pada</i>. Thus गर्ग + यञ् [[4.1.105]] = गार्ग्यः a grandson of <i>Garga</i>. So also वात्स्यः. The affix <i>yan</i> begins with a <i>ya</i> and the word <i>garga</i> being treated as <i>Bha</i> its final अ is elided before the affix by [[6.4.148]].
 
 So also दक्ष + इञ् = दाक्षिः [[4.1.95]] grandson of <i>Daksha</i> प्लाक्षिः. Here the affix इञ् begins with a vowel the word standing before it being <i>Bha</i>, it causes elision of the final अ of <i>daksha</i>.

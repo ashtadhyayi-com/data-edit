@@ -1,3 +1,4 @@
+The affix यत् comes after a root which ends in a labial letter preceded by a short अ।
 This debars ण्यत्; thus शप् + यत् =शप्यं 'to be sworn'; लभ् + यत् = लभ्यम् 'to be acquired'.
 
 Why do we say 'which ends in a labial'? Because if a root ends in any other consonant, though preceded by a short अ, the root will take ण्यत्; thus पच् + ण्यत् = पाक्यम् 'what is to be cooked'; वाक्यम् 'speech'.

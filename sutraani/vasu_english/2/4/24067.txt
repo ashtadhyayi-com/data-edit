@@ -1,1 +1,2 @@
+After the words गोपवन etc. there is not लुक् elision of the गोत्र affix, when the word takes the plural.
 This prevents the application of [[2.4.64]]. Thus गोपवन + अञ् = गौपवनः; plural गौपवनाः; singular शैग्रवः, plural शैग्रवाः. The गोपवन &c., belong to <i>Vidadi</i> class, vide [[4.1.104]], and are the following:- गोपवन, शिग्रु, बिन्दु, भजन्, अश्व, अवतान, श्यामक and श्वापर्ण. The remaining words such as हरित &c., should not be taken in this sub-class. In the case of हरित &c., the <i>Gotra</i> affix must be elided in the plural by Rule [[2.4.64]]. Thus हरिताः किंदासाः &c.
