@@ -1,7 +1,7 @@
 After the verbs classed as नन्द 'to be happy', ग्रह 'to take' and पच् 'to cook' there are the affixes ल्यु (अन), णिनि (इन्) and अच (अ) respectively.
 The word <i>adi</i> meaning etcetra, is to be joined with every one of the above three words. These three affixes come respectively after the verbs of the above three classes. Thus after the verbs of नन्द class, comes the affix ल्यु; after the verbs of ग्रह class, comes the affix णिनि; after the verbs of पच् class, comes the affix अच्.
 
-The नन्दादि verbs will not be found in one place in the <i>Dhatupatha</i>. The list of the words formed by these affixes have, however, been collected in the <i>Ganapatha</i>. Thus नन्द् + ल्यु = नन्द् + यु (I 3. 8) = नन्द् + अन (VI. I. I) = नन्दन nom. sing. नन्दनः 'son' (lit. what gladdens). So also from the following causative roots, nouns are formed, meaning names :- वासि - वासनः or वाशनः; मदि - मदनः; दूषि - दूषणः (or भूषणः); साधि - साधनः; वर्धि - वर्धनः; शोभि - शोभनः and रोचि - रोचनः.
+The नन्दादि verbs will not be found in one place in the <i>Dhatupatha</i>. The list of the words formed by these affixes have, however, been collected in the <i>Ganapatha</i>. Thus नन्द् + ल्यु = नन्द् + यु (I 3.8) = नन्द् + अन (VI.I.I) = नन्दन nom. sing. नन्दनः 'son' (lit. what gladdens). So also from the following causative roots, nouns are formed, meaning names :- वासि - वासनः or वाशनः; मदि - मदनः; दूषि - दूषणः (or भूषणः); साधि - साधनः; वर्धि - वर्धनः; शोभि - शोभनः and रोचि - रोचनः.
 
 The following derivatives are names :- सहि - सहनः; तपि - तपनः; दमि — दमनः
 
@@ -11,7 +11,7 @@ The ग्रहादि verbs are also nowhere enumerated in a group. The foll
 
 The following are पचादि words :- पच, वच, वप, वद, चल, तप, पत नदट्, भषट्, वस् गरत् प्लवट्, तरट्, चीरट्, माहट्, जर, मर, क्षर, क्षम, सूदट्, देवट्, मोरट् सेव, मेष, क्रोध, व्रण, दंश, दश, दम्भ, जारभर, श्वपच, मेघ, कीष, क्षप, मद, रज, दीषट्, चरट् ।
 
-The ट् in नदट् &c., shows that the feminine of these is formed by long ई (IV. I. 15). The पचादि class is an आकृतिगणः ।
+The ट् in नदट् &c., shows that the feminine of these is formed by long ई [[4.1.15]]. The पचादि class is an आकृतिगणः ।
 
 अज्विधिः सर्वधातुभ्यः पठ्यन्ते च पचादयः ।
 अण् बाधनार्थमेवं स्यात् सिध्यन्ति श्वपचादयः ॥

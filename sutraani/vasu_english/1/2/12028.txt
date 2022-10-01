@@ -1,5 +1,5 @@
- The short, long and prolated, when enunciated as such, by using these terms, are to be understood to come in the place of vowels only.
-This is a <i>paribhasha</i> <i>sutra</i>, and declares the object to which the terms 'short, 'long' and 'prolated' are to be applied. When in this book 'short' 'long' or 'prolated' are taught by using the words <i>hrasva</i>, <i>dirgha</i> or <i>pluta</i>, they must be understood to apply to vowels. As will be found in the <i>sutra</i> (1. 2. 47) \[1\] "there is the substitution of <i>hrasva</i> or short in the neuter gender of the crude-form." The word 'vowel' must be inserted in this <i>sutra</i> to complete the sense. That is:- the <i>hrasva</i> is substituted for the final vowel of the crude-form. As रै अतिरि, नौ अतिनु, गा उपगु.
+The short, long and prolated, when enunciated as such, by using these terms, are to be understood to come in the place of vowels only.
+This is a <i>paribhasha</i> <i>sutra</i>, and declares the object to which the terms 'short, 'long' and 'prolated' are to be applied. When in this book 'short' 'long' or 'prolated' are taught by using the words <i>hrasva</i>, <i>dirgha</i> or <i>pluta</i>, they must be understood to apply to vowels. As will be found in the <i>sutra</i> (1.2. 47) \[1\] "there is the substitution of <i>hrasva</i> or short in the neuter gender of the crude-form." The word 'vowel' must be inserted in this <i>sutra</i> to complete the sense. That is:- the <i>hrasva</i> is substituted for the final vowel of the crude-form. As रै अतिरि, नौ अतिनु, गा उपगु.
 
 The substitution must take the place of vowel and not consonant. As सुवाग् ब्राह्मणकुलम्.
 
@@ -9,7 +9,7 @@ So also in the case of <i>pluta</i> substitution. Thus rules [[8.2.82]] and [[8.
 
 Why do we say "in the place of vowels only"? The substitution must be in the place of the vowel of the टि and not of the consonant. As अग्निचि३त्, सोमसु३त्. Here the syllables इत् and उत् are टि, and the vowels इ and उ have been prolated and not the consonant त्.
 
-The substitution must be enunciated as such by using the terms, <i>hrasva</i>, <i>dirgha</i>, and <i>pluta</i>. Therefore it is not so here; द्यौः, पन्थाः, सः, द्युभ्याम्, द्युभिः See (I. I. 4).
+The substitution must be enunciated as such by using the terms, <i>hrasva</i>, <i>dirgha</i>, and <i>pluta</i>. Therefore it is not so here; द्यौः, पन्थाः, सः, द्युभ्याम्, द्युभिः See [[1.1.4]].
 
 ## Footnotes
 - [1] - हृस्वो नपुंसके प्रातिपदिकस्य ॥

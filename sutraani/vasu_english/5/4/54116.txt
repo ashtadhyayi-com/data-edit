@@ -7,4 +7,4 @@ Vart:- The affix अप् comes after नेतृ when preceded by a word deno
 
 Vart:- The affix अप् comes after नेतृ in the <i>Chhandas</i>. As बृहस्पतिनेत्रा देवाः, सोमनेत्राः ॥
 
-Vart:- The affix ठच् comes after the word मास when preceded by an ordinal having an affix denoting wages of service. Thus पंचको मासोऽस्य = पंचक मासिकः कर्मकरः मासिका कर्मकर so also दशकमासिकः कर्मकरः ॥ <i>Sutra</i> [[5.1.56]] gives the rule for forming words denoting 'wages' by adding कन् (V. I. 22). Therefore दशकमासिकः means "an artist whose monthly wages are ten coins".
+Vart:- The affix ठच् comes after the word मास when preceded by an ordinal having an affix denoting wages of service. Thus पंचको मासोऽस्य = पंचक मासिकः कर्मकरः मासिका कर्मकर so also दशकमासिकः कर्मकरः ॥ <i>Sutra</i> [[5.1.56]] gives the rule for forming words denoting 'wages' by adding कन् [[5.1.22]]. Therefore दशकमासिकः means "an artist whose monthly wages are ten coins".

@@ -5,7 +5,7 @@ The word विधि in the <i>sutra</i> applies to all the four words precedin
 
 (2) स्वरविधि :- As रा꣡जवती and not राजवती꣡ ॥ For the elision of न् being <i>asiddha</i>, the rule [[6.1.220]], does not apply, for the word is considered not to end in अवती but न्वती ॥ Similarly in पञ्चार्मम् and दशार्मम्, the elision of न being <i>asiddha</i>, the first member does not become <i>ady</i>-<i>udatta</i> by [[6.2.90]]. Similarly पञ्चवीजी : the elision of न् being <i>asiddha</i>, the first member does not retain its original accent as required by [[6.2.29]].
 
-The word राजन् is first acute, as it is formed by the affix कनिन् (<i>Unadi</i> I. 156). राजवती is formed by adding ङीप् to the मतुप् ending word, by [[4.1.6]]. पञ्चार्मम् is a compound under rule [[2.1.50]] of पञ्चन् + अर्म, and when न् is elided, the first member becomes a word ending in अ and would require the accent of [[6.2.90]].
+The word राजन् is first acute, as it is formed by the affix कनिन् (<i>Unadi</i> I.156). राजवती is formed by adding ङीप् to the मतुप् ending word, by [[4.1.6]]. पञ्चार्मम् is a compound under rule [[2.1.50]] of पञ्चन् + अर्म, and when न् is elided, the first member becomes a word ending in अ and would require the accent of [[6.2.90]].
 
 (3) संज्ञाविधि :- As पञ्च ब्राह्मण्यः, दश ब्राह्मण्यः ॥ The elision of म् being <i>asiddha</i>, the words पंच and दश are still called <i>shash</i> though they no longer end in न् (ष्णान्ता षट् [[1.1.24]]). Being called षष्, they do not take टाप् in the feminine [[4.1.10]].
 

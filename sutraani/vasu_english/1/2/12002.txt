@@ -1,4 +1,4 @@
- An affix which begins with the augment इट् -- आर्धधातुकस्येड् वलादेः [[7.2.35]], is ङित् after the root विज् 'to fear, to move'.
+An affix which begins with the augment इट् -- आर्धधातुकस्येड् वलादेः [[7.2.35]], is ङित् after the root विज् 'to fear, to move'.
 The root विज् does not strengthen its vowel before the affixes that take the intermediate इ, because those terminations are treated like ङित् affixes. The root विज् belongs to the <i>Tudadi</i> class. Thus उद्विजिता 'he will be agitated,' उद्विजितुम् 'for the purpose of being agitated,' उद्विजितव्यम् 'ought to be agitated.'
 
 But those affixes, which are not preceded by the augment इट्, are not like ङित्, and they consequently produce their own proper action, such as <i>gunation</i> &c. As उत् + विज् + ल्युट् = उद्वेजनम्, उद्वेजनीयम् 'that which ought to be agitated.'

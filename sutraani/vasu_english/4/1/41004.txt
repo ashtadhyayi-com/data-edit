@@ -1,7 +1,7 @@
 The affix टाप् is used to indicate feminine nature after the प्रातिपदिक (Nominal Stem) अज etc. and after the stems ending in short अ।
 Of the affix टाप्, the letters ट् and प् are इत्, the real affix is आ ॥ The letter प् indicates that the affix has <i>anudatta</i> accent [[3.1.4]]; the letter ट् is employed to distinguish this affix from चाप् and डाप् ॥
 
-The words अज &c, are given below. Thus अज 'a he goat,' अजा 'a she goat'. The words ending in short अ are such as, देवदत्त whose feminine will be देवदत्ता ॥ The word अत् is used in the aphorism, the indicatory त् shows (I. I. 70) that the short अ having one <i>matra</i> should be taken; and not the long आ ॥ <i>Pratipadikas</i> that end in long आ, such as कीलालपा or शुभंया [[3.2.74]] do not form their feminine by taking टाप्, but are both masculine and feminine. Thus, शुभंयाः कीलालपाः ब्राह्मणी 'the auspicious-going, nectar-drinking <i>Brahmani</i>'. Had the feminine of such words been formed by टाप्, then the case-affix स् of the nominative singular would have been elided after them [[6.1.68]].
+The words अज &c, are given below. Thus अज 'a he goat,' अजा 'a she goat'. The words ending in short अ are such as, देवदत्त whose feminine will be देवदत्ता ॥ The word अत् is used in the aphorism, the indicatory त् shows [[1.1.70]] that the short अ having one <i>matra</i> should be taken; and not the long आ ॥ <i>Pratipadikas</i> that end in long आ, such as कीलालपा or शुभंया [[3.2.74]] do not form their feminine by taking टाप्, but are both masculine and feminine. Thus, शुभंयाः कीलालपाः ब्राह्मणी 'the auspicious-going, nectar-drinking <i>Brahmani</i>'. Had the feminine of such words been formed by टाप्, then the case-affix स् of the nominative singular would have been elided after them [[6.1.68]].
 
 Following are the words belonging to the अजादि class:--
 
@@ -23,7 +23,7 @@ N. B. These two words are formed by the affix ल्युट्, and being ट�
 17. अजिनफल, अजिनफला; 18. शणफल, शणफला;
 19. पिण्डफल, पिण्डफला; 20. त्रिफल, त्रिफला;
 
-N. B. The above words ending in '<i>phala</i>' would have taken the affix <i>nish</i> (IV. I. 64) but for their enumeration in the '<i>ajadi</i>' class; 'त्रिफला' when a <i>Dvigu</i> Compound forms its feminine as त्रिफला; when a <i>Bahuvrihi</i> Compound, its feminine is त्रिफली ॥
+N. B. The above words ending in '<i>phala</i>' would have taken the affix <i>nish</i> [[4.1.64]] but for their enumeration in the '<i>ajadi</i>' class; 'त्रिफला' when a <i>Dvigu</i> Compound forms its feminine as त्रिफला; when a <i>Bahuvrihi</i> Compound, its feminine is त्रिफली ॥
 
 21. सत्पुष्प, सत्पुश्पा; 22. प्राक्पुष्प, प्राक्पुष्पा;
 23. काण्डपुष्प, काण्डपुष्पा; 24. प्रान्तपुष्प, प्रान्तपुष्पा;

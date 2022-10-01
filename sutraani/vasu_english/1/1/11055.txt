@@ -3,6 +3,6 @@ This <i>sutra </i> is an exception to <i>sutra</i> [[1.1.52]] by which it was de
 
 Thus, there is a <i>sutra</i> ब्रुवो वचिः [[2.4.53]] which means 'in the place of ब्रू let there be वच्. Here the <i>adesa</i> वच् consists of three letters (more than one), and therefore, it replaces the whole word ब्रू and not only the last letter ऊ. That is to say in forming certain tenses the verb ब्रू is replaced by वच्. Thus the future tense of ब्रू is वक्ता 'he will speak.' 
 
-So also there is a <i>sutra</i> (V. 3. 3.) by which it is declared:-- "In the place of इदम् there is इश्." Here the <i>adesa</i> इ is an <i>adesa</i> having the श् for its indicatory letter, and though it consists of only one letter, it replaces the whole word इदम्, and not only its last letter म्.
+So also there is a <i>sutra</i> [[5.3.3]] by which it is declared:-- "In the place of इदम् there is इश्." Here the <i>adesa</i> इ is an <i>adesa</i> having the श् for its indicatory letter, and though it consists of only one letter, it replaces the whole word इदम्, and not only its last letter म्.
 
 Of course, it must be understood that the phrase 'consisting of more than one letter' applies to the actual substitute, and not to the substitute with its indicatory letters, the latter being for the purposes of counting regarded as mere surplusages and not to be taken into account. To see whether an affix is अनेकाल् or not, the indicatory letters must not be counted; and the affix must be stripped of all its इत् letters.

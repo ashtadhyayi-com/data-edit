@@ -3,7 +3,7 @@ This applies to the <i>visarga</i> of निर्, दुर्, बहिर�
 
 Why do we say 'when not belonging to an affix'? Observe अग्निः करोति, वायुः करोति ॥ How do you explain मातुः करोति, पितुः करोति? For here in पितुः &c, the स् of the affix is elided by [[8.2.24]], and the र् of पितुर् + स् is changed to <i>visarga</i>; this is not the <i>visarga</i> of an affix, and ought to be changed to ष् ॥
 
-Answer:- The inclusion of the word भ्रातुष्पुत्रः in <i>Kaskadi</i> class [[8.3.48]] indicates by implication, that ष change does not take place of this <i>visarga</i> in पितुः, मातुः &c: the only exception being भ्रातुः ॥ The reason of this may be that the <i>visarga</i> here does not follow a simple उ, but an <i>ekadesa</i> उ (VI. I. 111).
+Answer:- The inclusion of the word भ्रातुष्पुत्रः in <i>Kaskadi</i> class [[8.3.48]] indicates by implication, that ष change does not take place of this <i>visarga</i> in पितुः, मातुः &c: the only exception being भ्रातुः ॥ The reason of this may be that the <i>visarga</i> here does not follow a simple उ, but an <i>ekadesa</i> उ [[6.1.111]].
 
 Vart:- Prohibition must be stated in the case of पुम् and मुहुस्; as पुंस्कामा, मुहुस्कामा ॥
 

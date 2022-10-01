@@ -1,6 +1,6 @@
 Of a word ending in a conjunct consonant, only स् is elided if it comes after र् (but any other consonant coming after र् is not elided).
 Thus अक्षाः and अत्साः for अर्क्षास् and अत्सार्स् the Aorist of क्षर् and त्सर in the following passages : गोभिरक्षाः, प्रत्यञ्चमत्साः ॥ The ईट् is not added as a Vedic diversity. See [[7.3.97]].
 
-So also मातुः, पितुः for मातुर्स् and पितुर्स् ॥ Here by (VI. I. 111), the ऋ + अ of मातृ + अस् is changed to उ, which is followed by र् by (I. I. 51).
+So also मातुः, पितुः for मातुर्स् and पितुर्स् ॥ Here by [[6.1.111]], the ऋ + अ of मातृ + अस् is changed to उ, which is followed by र् by [[1.1.51]].
 
 Though the final स् would have been elided even after र् by [[8.2.23]], the special mention of स् after र् shows, that this is a <i>niyama</i> rule. So that any other letter than स् following after र् will not be dropped. Thus ऊर्क् from ऊर्ज् + क्विप् [[3.2.177]], here ज् is not elided, though final in a <i>pada</i>, but is changed to a guttural by [[8.2.30]], and to क् by [[8.4.56]]. Also अमार्ट् from मृज् in लङ् the तिप् (त्) is elided by [[6.3.18]]; there is <i>vriddhi</i> by [[7.2.114]], the ज् is changed to ष् by [[8.2.36]], which is changed to ड् [[8.4.53]] and finally to ट् (चर्) ॥

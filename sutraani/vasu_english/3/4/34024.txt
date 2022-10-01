@@ -4,7 +4,7 @@ This is an <i>Aprapta</i>-<i>vibhasha</i>. The word 're-iteration' is not unders
 By using the word 'optionally' it is indicated, that the regular Tenses, such as the Present &c, may be employed also. Thus अग्रे भुङ्क्ते ततः व्रजति 'he eats first and then goes'.
 
 Q-- The affixes of <i>Lat</i> (Present tense) &c. would have been applied by the rule of वाऽसरूप [[3.1.94]]; why then use the word 'optionally'?
-Ans.-- The very use of the word 'optionally' in this <i>sutra</i> indicates the existence of this <i>Paribhasha</i> :- "The rule (III. I. 94) has no concern with the affixes <i>ktva</i> and <i>namul</i>, when both these affixes are enjoined at one and the same time by a single rule."
+Ans.-- The very use of the word 'optionally' in this <i>sutra</i> indicates the existence of this <i>Paribhasha</i> :- "The rule [[3.1.94]] has no concern with the affixes <i>ktva</i> and <i>namul</i>, when both these affixes are enjoined at one and the same time by a single rule."
 
 Therefore, we cannot apply [[3.1.94]] and use the affixes <i>Lat</i> &c, when 're-iteration' is meant That is the exclusive province of क्त्वा and णमुल् ।
 

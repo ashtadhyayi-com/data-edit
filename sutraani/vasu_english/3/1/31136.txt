@@ -1,4 +1,4 @@
 Also after a verb ending in long आ when there is a preposition along with it, the affix क is placed.
-This is an <i>apavada</i> of  (III. I. 40), and debars the affix ण. Thus प्रस्था + क = प्रस्थ + अ = प्रस्थः [[6.4.64]]. सुग्लै + क = सुग्ल + अ = सुग्लः 'very weary' (आ substituted for ऐ by (VI. I. 45.)) सुम्लै + क = सुम्ला + अ = सुम्लः 'very languid'.
+This is an <i>apavada</i> of  [[3.1.40]], and debars the affix ण. Thus प्रस्था + क = प्रस्थ + अ = प्रस्थः [[6.4.64]]. सुग्लै + क = सुग्ल + अ = सुग्लः 'very weary' (आ substituted for ऐ by (VI.I.45.)) सुम्लै + क = सुम्ला + अ = सुम्लः 'very languid'.
 
 The final आ is dropped before the affix क by rule [[6.4.64]]. There is elision of long आ when an <i>ardhadhatuka</i> affix follows beginning with a vowel and having an indicatory क or ङ.

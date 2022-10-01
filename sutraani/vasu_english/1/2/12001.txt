@@ -1,4 +1,4 @@
- All affixes after the verb गाङ् 'to study' and the verb कुट् 'to be crooked' and the rest, are as if they had an indicatory ङ् (ङित्), except those affixes which have an indicatory ञ् (ञित्) or ण् (णित्).
+All affixes after the verb गाङ् 'to study' and the verb कुट् 'to be crooked' and the rest, are as if they had an indicatory ङ् (ङित्), except those affixes which have an indicatory ञ् (ञित्) or ण् (णित्).
 All affixes after the verb गाङ् 'to study' and the verb कुट् 'to be crooked' and the rest, are as if they had an indicatory ङ् (ङित्), except those affixes which have an indicatory ञ् (ञित्) or ण् (णित्).
 This is an <i>atidesa</i> <i>sutra</i>, and makes certain affixes, though not having an indicatory ङ्, to produce the same effect as if they were really ङित्.
 
@@ -6,16 +6,16 @@ The root गाङ् is substituted for the verb इङ् in certain tenses, i
 
 After these roots all affixes are treated as if they were marked with a ङ् with the exception of those affixes which are ञित् or णित्.
 
-Thus from गाङ् we have in the aorist the form अध्यगीष्ट; which is thus evolved. अधि + अद् + इङ् + सिच् + त = अध्य + गा + स् + त (II. 4. 50.) = अध्य + गी + स्त [[6.4.66]] = अध्यगीष्ट 'he studied,' अध्यगीषातां 'they two studied'; अध्यगीषत 'they studied.' Here by [[6.4.66]], the आ is changed into ई before the affix सिच्, which is regarded as ङित्.
+Thus from गाङ् we have in the aorist the form अध्यगीष्ट; which is thus evolved. अधि + अद् + इङ् + सिच् + त = अध्य + गा + स् + त [[2.4.50]] = अध्य + गी + स्त [[6.4.66]] = अध्यगीष्ट 'he studied,' अध्यगीषातां 'they two studied'; अध्यगीषत 'they studied.' Here by [[6.4.66]], the आ is changed into ई before the affix सिच्, which is regarded as ङित्.
 
 Similarly, after the verbs कुट् &c., all affixes are treated as ङित्, with the exceptions already mentioned.
 
-Thus कुट् + तृच् [[3.1.133]] = कुट् + इट् + तृच् [[7.2.35]] = कुटितृ, nominative singular कुटिता 'who acts crookedly.' Here the affix तृच् being, regarded as ङित् does not cause the <i>guna</i> substitution of the उ of कुट्, by (I. I. 15).
+Thus कुट् + तृच् [[3.1.133]] = कुट् + इट् + तृच् [[7.2.35]] = कुटितृ, nominative singular कुटिता 'who acts crookedly.' Here the affix तृच् being, regarded as ङित् does not cause the <i>guna</i> substitution of the उ of कुट्, by [[1.1.15]].
 
 Similarly with the affixes तुमुन् and तव्यम्, we have कुटितुम् and कुटितव्यम्. So on with all the forty roots of <i>kutadi</i> class : e.g. उत्पुटिता, उत्पुटितुम्, उत्पुटितव्यम्.
 
 But the affixes marked with ञ् or ण् will not be so treated. Thus णिच् by which causatives are formed, is such an affix; e.g. उत्कुट् + णिच् + शप् + तिप् = उत्कोट् + इ + अ + ति = उत्कोटयति. Here there is <i>guna</i> of the उ of कुट्. So also before the affix णल् of the perfect tense, we have उच्चुकोट, and before the affix ण्वुल् we have उत्कोटकः ।
 
-<i>Vartika</i>:- The root व्यच् 'to deceive,' is also treated like <i>kutadi</i> verbs, except before the affix अस्. As विचिता 'he shall deceive,' विचितुम् 'for the purpose of deceiving' विचितव्यम् &c. Here there is <i>samprasarana</i> before the <i>nit</i> terminations ता, तुम् and तव्यम् and the य of व्यच् is changed into इ by rule (VI. I. 16).
+<i>Vartika</i>:- The root व्यच् 'to deceive,' is also treated like <i>kutadi</i> verbs, except before the affix अस्. As विचिता 'he shall deceive,' विचितुम् 'for the purpose of deceiving' विचितव्यम् &c. Here there is <i>samprasarana</i> before the <i>nit</i> terminations ता, तुम् and तव्यम् and the य of व्यच् is changed into इ by rule [[6.1.16]].
 
 But the affix अस् is not <i>nit</i> and consequently there is no <i>samprasarana</i> before it. Thus उरुव्यचाः 'an imp.'
