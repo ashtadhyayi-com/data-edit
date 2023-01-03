@@ -9,7 +9,7 @@ Similarly पाचिका + वृन्दारिका = पाचकव�
 
 Each member of a compound may have the same case, but if it is not a <i>Tat</i>-<i>purusha</i> compound, it won't be <i>karmadharaya</i>. As पाचिका + भार्या = पाचिकाभार्याः. 'He who has a wife for a cook.' This is an example of a <i>Bahuvrihi</i> compound, and therefore the word पचिका retains its gender sign.
 
-A compound may be a <i>Tat</i>-<i>purusha</i>, but if its component parts do not refer to the same thing and are not in the same case, it won't be <i>karmadharaya</i>:- ब्रा॒॒ह्म॒॒ण॒॒ राज्य॑म् <i>Brahmana</i> <i>rajyam</i>, 'a <i>Brahmana</i> kingdom.' Here राज्यम् gets <i>udatta</i> on the first syllable by the rule already mentioned [[6.2.130]].
+A compound may be a <i>Tat</i>-<i>purusha</i>, but if its component parts do not refer to the same thing and are not in the same case, it won't be <i>karmadharaya</i>:- ब्रा॒ह्म॒ण॒ राज्य॑म् <i>Brahmana</i> <i>rajyam</i>, 'a <i>Brahmana</i> kingdom.' Here राज्यम् gets <i>udatta</i> on the first syllable by the rule already mentioned [[6.2.130]].
 
 ## Footnotes
 - [1] - अकर्मधारये राज्यम् ॥
