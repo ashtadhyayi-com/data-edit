@@ -1,0 +1,12 @@
+ष् is substituted for the स् of the verb अस् 'to be' when it is followed by a vowel or य् and is preceded by प्रादुः or an उपसर्ग (Preposition) इ or उ having in it.
+The word यच् परः means 'followed by य् or अच्' ॥ The word प्रादुः is an Indeclinable, meaning 'evidently'.
+
+Thus अभिषन्ति, निषन्ति, विषन्ति, प्रादुःषन्ति; अभिष्यात्, निष्यात्, विष्यात्, प्रादुःष्यात् ॥
+
+Why do we say "when preceded by an <i>Upasarga</i> having an इ or उ?" Observe दधिस्यात्, मधुस्यात् ॥ Why do we say 'of the verb अस्'? Observe अनुसृतम्, विसृतम् ॥
+
+Question:- How is there any occasion for the application of the rule here? The context here relates to स, and the word "<i>upasarga</i>" qualifies that स, but here the <i>upasarga</i> is not applied to स् but to the whole verb सृ, therefore this is no counter-example. In fact, what is the necessity of using the word अस् at all in the <i>sutra</i>: for even without it, the word '<i>upasarga</i>' would qualify that verb which consists of स् only, and such a verb is अस्, with its अ elided and no other verb? Nor is the employment of अस् necessary for प्रादुः, for it comes only in connection with the verbs कृ, भू and अस् ॥
+
+Answer:- All that you urge, is true, yet the following counter-example should be given, as अनुसू, the son of <i>Anusu</i> will be आनुसेयः with ढक् as it belongs to <i>Subhradi</i> class. Thus अनुसू + ढक् = आनुसू + एय = आनुस् + एय ॥ Here the ऊ is elided by [[6.4.147]]. Now when ऊ is elided, the स् is the only verb-element that remains, अनु is <i>upasarga</i>, and एय is affix; so that had अस् not been taken in the <i>sutra</i>, the rule would apply to this स् also.
+
+Why do we say "when it is followed by a vowel or य्"? Observe निस्तः, विस्तः, प्रादुस्तः ॥

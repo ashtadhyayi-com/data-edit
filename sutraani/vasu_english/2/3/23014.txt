@@ -1,0 +1,10 @@
+The 4th case-affix is employed in denoting the object (कर्म) of that verb, which is suppressed (स्थानी) in a sentence and which has in construction (उपपद) there-with another verb, denoting an action, performed for the sake of the future action -- तुमुन्ण्वुलौ क्रियायां क्रियार्थायाम्[[3.3.10]]. In other words, when the sense of an infinitive of purpose formed by तुमुन् and ण्वुल् -- [[3.3.10]], is suppressed in a sentence, the object of this infinitive is put in the Dative -- 4th case.
+In other words, when the sense of an infinitive of purpose formed by '<i>tumun</i>' and '<i>nvul</i>' [[3.3.10]] is suppressed in a sentence, the object of this infinitive is put in the Dative case.
+
+फलेभ्यो व्रजति = फलान्याहर्तुं व्रजति 'he goes for fruits i. e., to bring fruits.' This debars the accusative case. So also we have in एधेभ्यः व्रजति 'he goes for fuel.' The words क्रियार्थोपदस्य and स्थानिनः are in apposition. The first is a <i>Bahuvrihi</i> compound of क्रियार्थ + उपपद and means 'a verb whose <i>upapada</i> denotes the purpose of the action (<i>kriyartha</i>).' Thus in एधानाहर्तुम् 'to bring fuel'; the infinitive verb आहर्तुम् is क्रियार्थोपपद, the object of this verb is एधः when this verb is suppressed, it becomes स्थानिनः; the object of this verb takes the fourth case-affix.
+
+Why do we say 'of the verb whose <i>upadada</i> denotes the purpose of the action'? Observe प्रविश पिंडीम्.
+
+Why do we say 'in denoting the object.' Witness एधेभ्यो व्रजति शकटेन 'for fuel he goes with a cart.'
+
+Why do we 'when suppressed'? Observe एधानाहर्तुं व्रजति.

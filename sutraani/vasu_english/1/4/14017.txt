@@ -1,0 +1,4 @@
+When the affixes beginning with a सु [[4.1.2]] and ending in कप् [[5.4.151]] follow, not being सर्वनामस्थान [[1.1.43]] then that which precedes is called पद।
+The affixes beginning with <i>su</i> and ending with <i>kap</i> are meant by the above <i>sutra</i>. Thus the case-affix भ्याम् (Ins Dual) is an affix included in the above. Thus राजन् + भ्याम् = राजभ्याम्, राजभिः, राजत्वं, राजता, राजतरः, राजतमः The न is elided by being <i>pada</i>.
+
+Why do we say 'when not a <i>Sarvanamasthana</i>'? Observe राजन् + औ = राजानौ two kings. kings. राजानः kings. The न is not elided.

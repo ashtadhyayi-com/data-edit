@@ -1,0 +1,18 @@
+A word which is one fixed case, (while the word compounded with it may vary its case) is also उपसर्जन , except for the purposes of the the rule which requires the उपसर्जन to stand first in a compound.
+A word which in the analytical statement of the sense of a compound has one fixed case, whilst the word with which it is compounded may vary its case, is also called <i>upasarjana</i>, but does not necessarily stand first.
+
+That which has one fixed case-termination is called <i>eka</i>-<i>vibhakti</i>, i.e., a word whose case termination has been determined by a rule of <i>samasa</i> i.e., while the second word in composition with it may take many case-affixes, it takes only one case affix; <i>apurva</i>-<i>nipate</i>, such a word will be an <i>upasarajana</i> for all purposes, except for the purpose of the rule [[2.2.30]] \[1\]which requires an <i>upasarjana</i> to stand first in a compound.
+
+Thus the prepositions निः &c, when meaning across &c., are compounded with another word in the ablative case. Though the first word may have any one of the several case terminations, the second member must always be in the fifth (ablative) case, when analytically stated. Ex: निष्क्रान्तः + कौशाम्ब्या = निश्कौशाम्बिः, निष्क्रान्तं + कौशाम्ब्या = निष्कौशाम्बिम्, निष्क्रान्तेन + कौशाम्ब्या = निष्कौशाम्बना, निष्क्रान्ताय + कौशाम्ब्या =  निष्कौशाम्बये, निष्क्रान्ते + कौशाम्ब्या = निकौशाम्बौ.
+
+Similarly the word निर्वाराणसिः ॥
+
+If the word, when analytically stated, does not retain the one and the same case, it will not be called <i>upasarjana</i>, as the word कुमारी in the compound राजकुमारी, 'the king's daughter,' because राज्ञः + कुमारी = राजकुमारी; राज्ञः + कुमारीम् = राजकुमारी; राज्ञः + कुमार्या = राजकुमार्या, राज्ञः + कुमार्ये = राजकुमार्ये.
+
+Had it been an <i>upasarjana</i>, the long ई of री would have been shortened into इ as in the previous example.
+
+This <i>upasarjana</i>, however, contrary to the general rule [[2.2.30]] \[2\] cannot stand first in the compound, because there is no such form as कौशाम्बीनिः
+
+## Footnotes
+- [1] - उपसर्जने पूर्वम् ॥
+- [2] - उपसर्जने पूर्वम् ॥

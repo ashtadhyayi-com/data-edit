@@ -1,0 +1,22 @@
+In the absence of any special role whenever गुण or वृद्धि is enjoined about any expression by using the terms गुण or वृद्धि, it is to be understood to come in the room of the इक् (इ, उ, ऋ, लृ) of that expression.
+This is a <i>paribhasha</i> <i>sutra</i>, and is useful in determining the original letters, in the place of which the substitute <i>guna</i> and <i>vriddhi</i> letters will come. The present rule will apply where there is the specification of no other particular rule.
+
+Thus <i>sutra</i> [[7.3.84]] declares:- "when a <i>sarvadhatuka</i> or an <i>ardhadhatuka</i> affix follows there is <i>guna</i> of the base." Here the <i>sthani</i> or the original expression which is to be <i>gunated</i>, is not specified, and to complete the sense, the word "<i>ikah</i>" must be read into the <i>sutra</i>. The rule then being, "when a S. or an A. affix follows there is <i>guna</i> of the <i>ik</i> vowels of the base." The <i>guna</i> of इ or ई is ए; of उ or ऊ, is ओ, of ऋ or ॠ is अर्, of ऌ is अल्; and their <i>Vrddhi</i> is ऐ, औ, आर् and आल् respectively. Thus नी + अति = ने + अति = नयति "he leads."
+
+Therefore, wherever in any rule in this Grammar, <i>guna</i> or <i>vriddhi</i> is ordained by employing the terms <i>guņa</i> or <i>vriddhi</i>, there the word "<i>ikah</i>" in the genitive case, meaning "in the place of <i>ik</i>", is to be supplied to complete the sense.
+
+The word '<i>ik</i>' is thus understood in the following rules, and is there qualified by the term अङ्ग or 'base':- मिदेर्गुणः [[7.3.82]] मृजेर्वृद्धिः [[7.2.114]] पुगन्तलघूपध &c., [[7.3.86]]; ऋच्छत्यॄताम् [[7.4.11]] ऋदृशोऽङि गुणः [[7.4.16]] स्थूलदूरयुव &c., [[6.4.156]].
+
+In the following <i>sutras</i>, the term '<i>ik</i>' is understood and qualifies the word <i>ånga</i> or base, जुसि च [[7.3.83]], सार्वधातुकार्धधातुकयोः [[7.3.84]].
+
+These <i>sutras</i> will be explained in their proper places.
+
+The word '<i>ik</i>' has been used in the <i>sutra</i> to show that the long आ, एच् or the diphthongs and हल् or the consonants, are not to take <i>guna</i> or <i>vriddhi</i> by this rule, as in the following examples यानम् "a carriage", ग्लायति "he feels aversion", उम्भिता "confined".
+
+Here ग्लायति is formed by adding the affix तिप्, third person singular termination, with the class a affix शप्, to the root ग्लै; as ग्लै+शप्+तिप्=ग्लै+अ+ति. At this stage, rule [[7.3.84]], would require the <i>guna</i> substitution of the vowel of the base before the <i>sarvadhatuka</i> termination अ; the <i>guna</i> substitute of ऐ being ए, there would be ग्ले+अति=ग्लयति. But this is wrong, the letter ऐ, being not included in the <i>pratyâhåra</i> <i>ik</i>, is not affected by rule [[7.3.84]], and there is no <i>guna</i> substitution in this case. Similarly there is no change in the long आ of यानम्. Thus या+ल्युट् [[3.3.115]] = यानम् [[7.1.1]]. Here had there been <i>guņa</i> by Rule [[7.3.84]], the आ of या, would have been changed into अ, and the form would have been यनम् which is wrong. But it is not so, as आ is not an इक् vowel. So also उम्भ्+इता = उम्भिता. Here, there is no <i>guna</i> substitution in the place of the consonant भ्.
+
+The repetition of the words <i>guna</i> and <i>vriddhi</i> in this <i>sútra</i>, (though by अनुवृत्ति or the supplying of a word from the previous <i>sūtra</i>, these words followed from the two preceding <i>sutras</i>) is for the purpose of indicating that, this is a restrictive rule applicable only there, where <i>guņa</i> or <i>vriddhi</i> has been ordained by the employment of the words <i>guna</i> or <i>vriddhi</i>. Therefore, it is not so in the following cases :- द्यौः "sky", पन्थाः "way" सः "he," इमम् "this". द्यौः is the nominative singular of the base दिव्. It is formed by rule [[7.1.84]], which declares that "in the nominative singular the letter औ takes the place of दिव्". Here the letter औ is no doubt a <i>vriddhi</i> letter, but as this substitution is not enjoined by the enunciation of the term <i>vriddhi</i>, औ does not take the place of the vowel इ of दिव्, but it replaces the final व्. Thus दि+औ+स्=द्यौः.
+
+Similarly rule [[7.1.85]], declares that of the word पथिन्, आ is the substitute. The आ is a <i>vriddhi</i> letter no doubt, but not being enunciated by the term <i>vriddhi</i>, it takes the place of न् of पथिन् and not of इ. Thus we have पन्थाः, the न being added by [[7.1.87]].
+
+Similarly सः from तद्, which is formed by [[7.2.102]] "short अ is the substitute of <i>tyad</i>, &c.," Here अ takes the place of द्. Thus we have त, which is changed again into स by [[7.2.106]].

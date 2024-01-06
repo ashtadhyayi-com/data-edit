@@ -1,0 +1,6 @@
+The affix तुमुन् comes after a root when the words 1. काल 2. समय 3. वेला (all meaning time) are in composition.
+Thus कालो भोक्तुम् 'time to eat'; समयः खलु स्नानभोजने सेवितुम् 'it is time to bathe and take food'; वेला भोक्तुम् 'time to eat'. In short, Infinitive in तुमुन् may be used with words meaning 'time'; as अवसरोऽयमात्मानं प्रकाशयितुम् 'this is, indeed, the time to show myself'.
+
+Why do not we use the Infinitive here? कालः पचति भूतानि 'time devours all creatures'. The sense of 'direction &c'. is understood in the <i>sutra</i>; so when 'direction &c' is not meant, the Infinitive will not be used.
+
+Why do not we use the Infinitive here, कालो भोजनस्य 'proper time to eat'? Because, by the rule of non-uniform affixes [[3.1.94]], we can use also the affix ल्युट् (by which the word भोजन is formed). As we have already in <i>sutra</i> [[3.3.163]] that after <i>sutras</i> [[2.1.11]] and forward, namely, in other <i>sutras</i> than those treating of feminine affixes, the rule of [[3.1.94]] may be employed as an <i>Anitya</i> or a non-universal rule.

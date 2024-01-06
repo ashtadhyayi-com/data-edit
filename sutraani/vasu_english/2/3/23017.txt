@@ -1,0 +1,12 @@
+In denoting the indirect object, which is not an animal, of the verb मन्य 'to think', the Dative -- 4th case is optionally used, when contempt is to be shown.
+Ex. न त्वा तृणं तृणाय वा मन्ये 'I do not consider thee worth a straw.' न त्वा बुसं बुसाय वा मन्ये 'I do not consider thee worth a chaff.' Why do we use the word मन्ये? Observe न त्वा तृणं चिन्तयामि. The optional dative will not be employed with the synonyms of the verb मन्यति. So also the <i>sutra</i> uses the form मन्य with the <i>vikarana</i> श्यण्, indicating that it is <i>Divadi</i> that governs a dative, and not the <i>Tanadi</i> मन्; for the latter governs the accusative only, as न त्वां तृणं मन्ये.
+
+When contempt is not meant, the verb does not govern the Dative, as:-
+
+अश्मानं दृषदं मन्ये, मन्ये काष्ठमुलूखलम् । अन्धायास्तं सुतं मन्ये यस्य माता न पश्यति ॥
+
+'I consider a rock to be a stone, I consider mortar but as wood, I consider him to be the son of a blind woman whose mother cannot see.'
+
+So also when the object of comparison is an animate being, it will not take the dative:- as न त्वां शृगालं मन्ये 'I do not consider thee even as a jackal.' The case of न त्वां शुने मन्ये is an exception.
+
+Vart:- Instead of using अप्राणिषु in the <i>sutra</i>, the words अनावादिषु should be used. The following words belong to <i>Navadi</i> class, they are always in the accusative after the word मन्ये, never in the Dative :-- नो 'ship,' काक 'crow,' अन्न 'food,' शुक 'parrot,' and शृगाल 'jackal.'

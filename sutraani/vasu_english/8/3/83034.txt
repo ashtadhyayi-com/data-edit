@@ -1,0 +1,4 @@
+स् is the substitute of a विसर्ग when it is followed by a hard consonant (खर्) which itself is followed by a sibilant (शर्).
+The word खरि is understood here. Thus वृक्षश्छादयति, प्लक्षश्छादयति, वृक्षष्ठकारः, प्लक्षष्ठकारः, वृक्षस्थकारः, प्लक्षस्थकारः, वृक्षश्चिनोति, प्लक्षश्चिनोति, वृक्षष्टीकते, प्लक्षष्टीकते, वृक्षस्तरति, प्लक्षस्तरति ॥
+
+By [[8.3.15]], the र् was changed to <i>visarga</i> before a hard consonant, or at the end of a Pause. In the present <i>sutra</i>, no special cause being mentioned, the स् change would take place, not only before a hard consonant, but at the Pause also, i.e. in वृक्षः, प्लक्षः also. This however, is not the case, because the word संहितायाम् governs this <i>sutra</i>; so the स् change will be in <i>Sanhita</i> only, and not in Pause, moreover we read the <i>anuvritti</i> of खरि here and so prevent the स् change in Pause.

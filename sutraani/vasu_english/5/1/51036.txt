@@ -1,0 +1,4 @@
+The affix अण् (-/- -अ) as well as यत् optionally also comes after the word शाण , in the आर्हीय-senses [[5.1.37]]-63, when preceded by the words द्वि and त्रि।
+The यत् comes optionally by the last <i>sutra</i> and is also drawn into this by the word च. Thus we have three forms, द्विशाण्यम्, द्वैशाणम्, and द्विशाणम्, so also त्रिशाण्यम्, त्रैशाणम् and त्रिशाणम् ॥
+5.1.37.md''
+The irregular <i>Vriddhi</i> of the second term in cases of compounds of numerals, taught in [[7.3.15]] - [[7.3.17]], does not however take place in the case of शाण, this word being especially excluded from the operation of those rules, see [[7.3.17]]. The <i>Vriddhi</i> here is regular as taught by the general rule [[7.2.117]].

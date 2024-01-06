@@ -1,0 +1,20 @@
+The first five case affixes comprised in the प्रत्यहार सुट् (i.e. the three case-terminations of the Nominative, and the singular and dual of the Accusative) are also called सर्वनामस्थान , except the case-affixes of the neuter gender.
+This defines further the word <i>sarvanamasthana</i>. The case-terminations in Sanskrit are 21 as arranged below:-
+
+- Nominative प्रथमा सु (स्) औ जस् (अस्)
+- Accusative द्वितीया अम् औट् शस् (अस्)
+- Instrumental तृतीया टा (आ) भ्याम् भिस्
+- Dative चतुर्थी ङे (ए) भ्याम् भ्यस्
+- Ablative पंचमी ङसि (अस्) भ्याम् भ्यस्
+- Genitive षष्ठी ङस् (अस्) ओस् आम्
+- Locative सप्तमी ङि (इ) ओस् सुप् (सु)
+
+The above are the 21 <i>vibhaktis</i>, the ज् of जस्, the श् of शस्, the ट् of औट् &c. are indicatory. All these <i>vibhaktis</i> are included in the <i>pratyahara</i> सुप् formed by taking the first <i>vibhakti</i> and the last letter of the last <i>vibhakti</i>. Similarly the first five terminations (सु. औ, जस्, अम् and औट्) are represented by सुट् and are called <i>sarvanamasthana</i> in the masculine and feminine genders. In the declension of nouns, it will be seen, that some nouns have two bases, one before these <i>sarvanamasthana</i> and the other before the rest.
+
+Thus the word राजन् 'king' has the base राजान् before the सुट् <i>vibhaktis</i>, while in the remaining cases, the base is राज्ञ् and राज as:-
+
+- Nominative राजा राजानौ राजानः
+- Accusative राजानम् राजानौ राज्ञः
+- Instrumental राज्ञा राजभ्यां राजभिः
+
+But in the neuter nouns there is no such difference.

@@ -1,0 +1,14 @@
+ष् is substituted before a hard guttural or a labial for the विसर्ग which is preceded इ or उ and not part of an affix.
+This applies to the <i>visarga</i> of निर्, दुर्, बहिर्, अविस्, चतुर् and प्रादुस् ॥ Thus निष्कृतम्, निष्पीतम्, दुष्कृतम्, दुष्पीतम्, बहिस्, बहिष्कृतम्, बहिष्पीतम्, आविस्, आविष्कृतम्, आविष्पीतम्, चतुष्कृतम्, चतुष्कपालम्, चतुष्कन्दलम्, चतुष्कलम्, प्रादुष्कृतम्, प्रादुष्पीतम् ॥
+
+Why do we say 'when not belonging to an affix'? Observe अग्निः करोति, वायुः करोति ॥ How do you explain मातुः करोति, पितुः करोति? For here in पितुः &c, the स् of the affix is elided by [[8.2.24]], and the र् of पितुर् + स् is changed to <i>visarga</i>; this is not the <i>visarga</i> of an affix, and ought to be changed to ष् ॥
+
+Answer:- The inclusion of the word भ्रातुष्पुत्रः in <i>Kaskadi</i> class [[8.3.48]] indicates by implication, that ष change does not take place of this <i>visarga</i> in पितुः, मातुः &c: the only exception being भ्रातुः ॥ The reason of this may be that the <i>visarga</i> here does not follow a simple उ, but an <i>ekadesa</i> उ [[6.1.111]].
+
+Vart:- Prohibition must be stated in the case of पुम् and मुहुस्; as पुंस्कामा, मुहुस्कामा ॥
+
+Vart:- वृद्धिभूतानां षत्वं वक्तव्यम् । The <i>visarga</i> is changed to ष even when इ or उ are <i>vriddhied</i>; as नैष्कुल्यम्, दौष्कुल्यम् ॥
+
+Vart:- प्लुतानां तादौ च ॥ The <i>visarga</i> is changed to ष even when इ or उ are <i>pluta</i>, and then before dentals as well as gutturals and labials. Thus नि३ष्कुलम्, दु३ष्कुलम् [[8.2.86]] for <i>pluta</i>)). दु३ष्पुरुषः, वही३ष्टरः ॥
+
+These last two <i>vartikas</i> may be dispensed with, because <i>Vriddhi</i> and <i>Pluta</i> are <i>Bahiranga</i> change, and so the <i>visarga</i> will be changed to ष in these cases also by the <i>sutra</i> itself; except so far as त is concerned.

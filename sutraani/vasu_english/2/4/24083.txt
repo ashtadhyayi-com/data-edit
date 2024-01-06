@@ -1,0 +1,6 @@
+There is not लुक् elision of the case-affix after an अव्ययीभाव compound that ends in अ ; आम् is the substitute of its case-affix es, but not when it is the 5th case-affix.
+This debars <i>luk</i>-elision which was to have taken place by the last <i>sutra</i> instead of <i>luk</i>-elision, we have आम् added to the words ending in short अ; for examples of this, see <i>sutra</i> [[2.1.6]]; as उपकुम्भं तिष्ठति '<i>upakumbha</i> is standing'; उपकुम्भं पश्य 'see the <i>upakumbha</i>.'
+
+Why do we say 'after words ending in short अ'? Because after <i>Avyayibhava</i> compound ending in any other vowels there is not substitution, but there is total-elision of the case-affixes; as अधिस्त्री, अधिकुमारी.
+
+But the ablative case-affix is not elided after <i>Avyayibhava</i> compound ending in short अ, nor is there the अम् substitution; as उपकुम्भादानय.

@@ -1,0 +1,7 @@
+The personal endings of the लिट् (Perfect Tense) do not get the augment इट् after 1 कृ 2. सृ 3. भृ 4. वृ 5. स्तु 6. द्रु 7. स्रु 8.श्रु।
+Thus कृ - चकृव, चकृम; सृ, ससृव, ससृम; भृ, बभृव, बभृम; वृञ्, ववृव, ववृम; वृङ्, ववृवहे, ववृमहे; स्तु, तुष्टुव, तुष्टुम; द्रु, दुद्रुव, दुद्रम; स्रु; सुस्रुव, सुस्रुम; श्रु; शुश्रुव, शुश्रुम ॥ सिद्धे सत्यारम्भो नियमार्थः, क्रादय एव लिट्यनिटस्ततोन्ये सेट इति ॥
+
+These roots with the exception of वृ are <i>Anit</i> by rule [[7.2.10]]; their special mention here is for the sake of <i>niyama</i>, namely, these roots alone are <i>Anit</i> in the Perfect, other roots are all Set in the Perfect. Thus बिभिदिव, बिभिदिम, लुलुविव, लुलुविम ॥ All <i>anudatta</i> roots of the <i>Dhatupatha</i> are to be understood, by this rule, to get इट् ॥ The affix थ of the Perfect gets इट् after वृञ्, as the irregular form ववर्थ in [[7.2.64]], indicates that in the <i>Veda</i>, थ does not get इट् after वृञ्, but in the secular literature it does. By [[7.2.63]], the थ would have got इट् after स्तु, द्रु, स्रु and श्रु; that इट् is also prohibited by the present <i>sutra</i>. As तुष्टोथ, दुद्रोथ,
+स्रुस्रोथ, शुश्रोथ ॥
+
+Vart:- इट् is added when कृ takes the सुट् augment : as संचस्करिव, संचस्करिम ॥ The rule [[7.2.63]], applies here also, as संचस्करिथ ॥

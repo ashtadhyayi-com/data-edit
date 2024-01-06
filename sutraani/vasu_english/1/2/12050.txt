@@ -1,0 +1,7 @@
+The short is substituted in the place of गोणी , when the तद्धित affix is elided by लुक्।
+By the former <i>sutra</i> when a <i>Taddhita</i> is elided, the long ई of the feminine also required elision. But this rule makes an exception in favor of the word गोणी३ in which, under similar circumstances the short इ replaces the long ई, as in the compound पंचगोणिः  'purchased for five <i>gonis</i>.' Here the <i>Taddhita</i> suffix which conveys the meaning of "purchased for," has been rejected after गोणी by [[5.1.28]] \[1\]. Therefore by previous <i>sutra</i>, the feminine suffix  ई also required rejection. But this <i>sutra</i> intervenes and changes the long ई into short इ.
+
+This <i>sutra</i> is divided into two separate rules by the process called <i>yoga</i>-<i>vibhaga</i>. Thus इत् is made one <i>sutra</i> by itself, and then it means, when there is a suppression of <i>Taddhita</i> aflix by लुक्, then the long ई is replaced by short इ. Thus purchased with five needles पंचभिः सूचीभिः क्रीतः = पंचसूचिः, दशसूचिः. This is restricted to such examples of purchase only.
+
+## Footnotes
+- [1] - अध्यर्द्धपूर्वद्विगोर्लुगसंज्ञायाम् ॥

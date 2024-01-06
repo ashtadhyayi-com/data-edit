@@ -1,0 +1,48 @@
+The affix टाप् is used to indicate feminine nature after the प्रातिपदिक (Nominal Stem) अज etc. and after the stems ending in short अ।
+Of the affix टाप्, the letters ट् and प् are इत्, the real affix is आ ॥ The letter प् indicates that the affix has <i>anudatta</i> accent [[3.1.4]]; the letter ट् is employed to distinguish this affix from चाप् and डाप् ॥
+
+The words अज &c, are given below. Thus अज 'a he goat,' अजा 'a she goat'. The words ending in short अ are such as, देवदत्त whose feminine will be देवदत्ता ॥ The word अत् is used in the aphorism, the indicatory त् shows [[1.1.70]] that the short अ having one <i>matra</i> should be taken; and not the long आ ॥ <i>Pratipadikas</i> that end in long आ, such as कीलालपा or शुभंया [[3.2.74]] do not form their feminine by taking टाप्, but are both masculine and feminine. Thus, शुभंयाः कीलालपाः ब्राह्मणी 'the auspicious-going, nectar-drinking <i>Brahmani</i>'. Had the feminine of such words been formed by टाप्, then the case-affix स् of the nominative singular would have been elided after them [[6.1.68]].
+
+Following are the words belonging to the अजादि class:--
+
+1. अज अजा 2. एडक एडका 3. कोकिल कोकिला
+4. चटक चटका 5. अश्व अश्वा 6. मूषिक मूषिका
+
+N. B. The above words denote '<i>jati</i>' or kind and though they end in short अ in the masculine, they would have taken, but for the present <i>sutra</i>, the affix '<i>nish</i>' [[4.2.63]] in the feminine.
+
+7. बाल बाला 8. होड होडा 9. पाक पाका
+10. वत्स वत्सा 11. मन्द मन्दा 12. विलात विलाता
+
+N. B. The above six words are descriptive of age, and though they end in short अ in the masculine, but for the present <i>sutra</i>, they would have taken the affix 'ङीप्' [[4.1.20]] in the feminine.
+
+13. पूर्वापहरण, पूर्वापहरणा; 14. अपरापहारण अपरापहारणा;
+
+N. B. These two words are formed by the affix ल्युट्, and being टित् would have taken ङीप् [[4.1.15]] but for this <i>sutra</i>.
+
+15. संफल,  संफला;  16. भस्त्रफल; भस्त्रफला;
+17. अजिनफल, अजिनफला; 18. शणफल, शणफला;
+19. पिण्डफल, पिण्डफला; 20. त्रिफल, त्रिफला;
+
+N. B. The above words ending in '<i>phala</i>' would have taken the affix <i>nish</i> [[4.1.64]] but for their enumeration in the '<i>ajadi</i>' class; 'त्रिफला' when a <i>Dvigu</i> Compound forms its feminine as त्रिफला; when a <i>Bahuvrihi</i> Compound, its feminine is त्रिफली ॥
+
+21. सत्पुष्प, सत्पुश्पा; 22. प्राक्पुष्प, प्राक्पुष्पा;
+23. काण्डपुष्प, काण्डपुष्पा; 24. प्रान्तपुष्प, प्रान्तपुष्पा;
+25. शतपुष्प, शतपुष्पा; 26. एकपुष्प, एकपुष्पा;
+
+The above words ending in पुष्प would have taken <i>nish</i> by [[4.1.64]].
+
+27. शूद्र शूद्रा
+
+B. N. But the feminine of शूद्र is शूद्री when the meaning is 'the wife of a <i>sudra</i>'; so also when the word शूद्र is compounded with the word महत् as, महाशूद्री 'a woman of 'महाशूद्र' class'.
+
+The term 'महाशूद्र' is applied to the caste of <i>Abhiras</i>: and this compound word would have taken the affix 'टाप्' by the rule of <i>tadanta</i> <i>vidhi</i> given in [[1.1.72]], but for the <i>vartika</i>, viz 'शूद्रा चामहत पूर्वा जातिः' It might be objected that the <i>tadanta</i> <i>vidhi</i> cannot apply here on the strength of the following maxim:- "That which cannot possibly be anything but a <i>pratipadika</i> does not denote that which ends with it, but it denotes only itself". Therefore, the word '<i>sudra</i>' which cannot be anything but a <i>pratipadika</i>, does not denote '<i>maha</i>-<i>sudra</i>'. This objection is futile: the very fact of this <i>vartika</i> indicates by implication (<i>jnapaka</i>), that with regard to the application of the feminine affixes, the <i>tadanta</i>-<i>vidhi</i> is valid and does apply. Thus we have the forms like अतिधीवरी अतिपीवरी and अतिभवती
+
+28. क्रुंच् क्रुंचा 29. उष्णिह् उष्णिहा 30. देवविश् देवविशा  
+
+N. B. The above words end in consonants and would not have taken 'टाप्' but for their being included in the 'अजादि' class.
+
+31. ज्येष्ठ ज्येष्ठा 32. कनिष्ठ कनिष्ठा 33. मध्यम मध्यमा
+
+B. N. The above words denoting matrimonial realtion would have taken the affix '<i>nish</i>' by [[4.1.46]].
+
+34. अमूल अमूला The word '<i>mula</i>' preceded by the negative particle <i>nan</i>, would have otherwise taken '<i>nish</i>' by [[4.1.64]].

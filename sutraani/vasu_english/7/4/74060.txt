@@ -1,0 +1,14 @@
+Of the consonants of the reduplicate, only the first is retained, the remainders are elided.
+As जग्लौ, मम्लौ, पपाच, पपाठ, आट, आटतुः, आटुः ॥ This rule ordains the retention of the initial consonant, if any, and elision of the non-initials in the reduplicate. If the root begins with a vowel as अट्, there being no initial consonant, in अट् अट्, the ट् will be elided of course. The word हलादिः should not be construed as a Genitive <i>Tatpurusha</i> 'first among the consonants', for then in अक्ष् + लिट् = अक्ष् अक्ष्, the ष् only would be elided, and क् retained.
+
+The word शेषः or शिष्यते here means अवस्थाप्यते 'is retained'. The word हलादिः is not a compound. For had it been a compound, then if it is a <i>Karmadharaya</i>, the word आदिः should stand first ; if it be a Genitive compound then the first among compound consonants would be retained and we could not get the form आनक्ष from अक्ष. The word <i>abhyasa</i> is to be taken in the sense of <i>jati</i> or kind, i.e. in the <i>jati</i> which is collectively called <i>abhyasa</i>, the consonant that stands first in respect to <i>abhyasa</i>, is retained, and not the consonant standing in any other portion of it. So that all consonants, where ever they may be situated in the body of an <i>abhyasa</i>, whether in the beginning or middle or end, are dropped, except one with which the <i>abhyasa</i> begins. Thus if the <i>abhyasa</i> begins with a simple consonant, it is retained; if it begins with a conjunct consonant, the first is only retained; and if the consonant or consonants are not in the beginning they are all dropped.
+
+Others say, the word शेषः here means "retention along with the cessation of others". Therefore, though literally the word शेषः or retention appears to be the principal word in this <i>sutra</i>, yet as a matter of fact, it is secondary, because the injunction is not with regard to retention, but with regard to cessation. The rule is not "Retain the first consonant"; but "Drop every consonant but the first, is there be a first consonant". Or the <i>sutras</i> 59 and 60, may be combined and read thus : ह्रस्वोऽहल् "The <i>abhyasa</i> becomes short and also without consonant". आदिशेषः "The first consonant is retained". Or the <i>sutras</i> may be divided thus :-
+
+(1) 'A short vowel is substituted in the <i>abhyasa</i>'.
+
+(2) 'The consonants of <i>abhyasa</i> are all elided'.
+
+(3) The first is retained.
+
+The <i>sutras</i> 59 and 60 must be joined by <i>sandhi</i> "ह्रस्वोऽहलादिशेषः", and then we shall be able to read an elided अ between ह्रस्वः and हल्, as if it was a compound of ह्रस्व and अहल् ॥

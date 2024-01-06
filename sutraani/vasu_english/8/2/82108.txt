@@ -1,0 +1,28 @@
+For these vowels इ or उ are substituted य् and व् when a vowel follows them in a संहिता (in an unbroken flow of speech).
+Karika:-
+
+किं तु यणा भवतीह न सिद्धं य्वाविदुतोर्यदयं विदधाति ।
+तौ च मम स्वरसन्धिषु सिद्धौ शाकलदीर्घविधी तु निवर्त्यौ ॥
+इक तु यदा भवति प्लुतपूर्वस्तस्य यणं विदधात्यपवादम् ।
+तेन तयोश्च न शाकलदीर्घौ यण्स्वरबाधनमेव तु हेतुः ॥
+
+The word संहितायाम् is an <i>adhikara</i> and exerts its influence upto the end of the Book. Whatever we shall teach hereafter, upto the end of the Book, will apply to words which are in <i>Sanhita</i>.
+
+Thus अग्ना३याशा, पटा३वाशा, अग्ना३यिन्द्रम्, पटा३वुदकम् ॥
+Why do we say संहितायाम् "when a vowel follows"? Observe अग्ना३इ, पटा३उ ॥
+
+Why do we say संहितायाम् 'in an uninterrupted flow of speech'? Observe अग्ना३ इ इन्द्रम्, पटा३उ उदकम् in <i>Pada</i> <i>Patha</i>.
+
+This <i>sutra</i> is made, because इ and उ being <i>pluta</i>-modifications are considered as <i>asiddha</i> [[8.2.1]] for the purposes of इको यणचि [[6.1.77]]. But supposing that some how or other, these इ and उ be considered <i>siddha</i>, still the present rule is necessary to prevent their lengthening before a homogeneous vowel [[6.1.101]], or their retaining their form unchanged by [[6.1.127]]. If it be said, that these rules [[6.1.101]], and [[6.1.127]], would not apply, because of the <i>Vartika</i> इकः प्लुतपूर्वस्य सवर्णदीर्घ बाधनार्थे यणादेशो वक्तव्यः (<i>Vartika</i> to [[6.1.77]]); still the present <i>sutra</i> ought to be made, in order to prevent यण् accent [[8.2.4]].
+
+Karika:- Question: Could not this have been accomplished by the यणादेश of [[6.1.77]], that the <i>Acharya</i> has taught this separate य् and व् substitution ?
+
+Answer:- If you say that <i>pluta</i> is <i>siddha</i> in the vowel <i>sandhi</i> rules, because of the <i>jnapaka</i> in <i>sutra</i> [[6.1.125]], then still this rule is necessary in order to prevent the lengthening of [[6.1.101]], and the <i>Sakala</i> rule [[6.1.127]].
+
+Question:- But those two rules [[6.1.101]], and [[6.1.127]], have already been debarred by the <i>Vartika</i> which ordains that यणादेश takes place of such a vowel following a <i>pluta</i> (See <i>vartika</i> to [[6.1.77]]), what is then the necessity of the present <i>sutra</i> ?
+
+Answer:- The necessity of the present <i>sutra</i> is to prevent the यण-accent of [[8.2.4]].
+
+According to one view, the <i>vartika</i> under [[6.1.77]], refers to those vowels which are not <i>pluta</i>-elements, like the present इ and उ, but which are independent vowels following after a <i>pluta</i> vowel. As भो३ इ इन्द्र = भो ३ यिन्द्र ॥
+
+Here इ is a <i>Nipata</i>.

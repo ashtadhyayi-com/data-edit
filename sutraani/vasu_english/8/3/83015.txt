@@ -1,0 +1,8 @@
+The विसर्जनीय is substituted for र् before a खर् consonant or when there is a Pause.
+The word रः is understood. The <i>visarga</i> is the substitute of र् final in a <i>Pada</i>, before surd consonants and sibilants, or at a Pause.
+
+Thus वृक्षश्छादयति [[8.3.34]], [[8.4.40]], प्लक्षश्छादयति, वृक्षस्तरति, प्लक्षस्तरति, वृक्षष्ठकारः, वृक्षष्टीकते, प्लक्षष्टीकते, वृक्षश्चिनोति, प्लक्षश्चिनोति ॥ Pause:- वृक्षः; प्लक्षः ॥
+
+Who do we say "before a खर् consonant or at a Pause"? Observe अग्निर्नयति, वायुर्नयति, नार्कुटः (नृ कुढ्यां भवः), नार्पत्यः (नृपतेरपत्यं) ॥ In these two latter, the <i>Vriddhi</i> being considered as <i>Bahiranga</i>, and the र् being the result of such <i>Bahiranga</i> <i>Vriddhi</i>, is <i>asiddha</i>, and is consequently not changed to <i>visarga</i>.
+
+The word पदस्य is understood here, and the genitive should be consrued here as <i>sthana</i>-<i>sashthi</i>, so that for the final र् of a <i>Pada</i> there is <i>visarga</i>, and not for that र् which is not final.

@@ -1,0 +1,10 @@
+And when an affix with an initial य् or an initial vowel, being one of the affixes, beginning with सु and ending in क् , follows, not being सर्वनामस्थान , then what precedes, is called भ।
+This debars the application of <i>pada</i>. Thus गर्ग + यञ् [[4.1.105]] = गार्ग्यः a grandson of <i>Garga</i>. So also वात्स्यः. The affix <i>yan</i> begins with a <i>ya</i> and the word <i>garga</i> being treated as <i>Bha</i> its final अ is elided before the affix by [[6.4.148]].
+
+So also दक्ष + इञ् = दाक्षिः [[4.1.95]] grandson of <i>Daksha</i> प्लाक्षिः. Here the affix इञ् begins with a vowel the word standing before it being <i>Bha</i>, it causes elision of the final अ of <i>daksha</i>.
+
+The word यचि is in the 7th case meaning when य् or अच् follow; and by the last <i>Vart</i> of <i>Sutra</i> [[1.1.72]], it means 'when an affix beginning with <i>ya</i> or <i>ach</i> follow.'
+
+Vart:- The words नभस्, अङ्गिरस् and मनुष् should be treated as <i>Bha</i> when the affix वत् follows. Thus नभस्वत् like the sky. अङ्गिरस् like the <i>Angiras</i>. मनुष्वत् like the man. By being <i>Bha</i>, the स् is not changed into र्, which it would have been, had it been a <i>pada</i> [[8.2.66]].
+
+Vart:- The words वृषन् is treated as <i>Bha</i> in the vedas when the words वसु and अश्व follow. Thus वृषण्वसुः; वृषणश्वस्य मेने Here had the word <i>vrishan</i> been treated as <i>pada</i>, the न would not have been changed into ण (See Rule [[8.4.37]]); and this न would have been dropped before the affix <i>vasu</i> by [[8.2.7]].

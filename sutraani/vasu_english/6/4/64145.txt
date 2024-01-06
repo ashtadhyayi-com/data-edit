@@ -1,0 +1,6 @@
+The अ of अहन् is elided only before the affixes ट and ख।
+Thus द्वे अहनी समाहूते = द्व्यहः, त्र्यहः ([[5.4.91]] with टच्), द्वे अहनी अधीष्टो भृतो भूतो भावी वा = द्व्यहीनः, त्र्यहीनः (with ख [[5.1.87]]).
+
+Vart:- ख is added to अहन् in the sense of तस्य समूहः, when referring to a sacrifice. अह्नां समूहः क्रतुः = अहीनः [[4.2.42]].
+
+Though the अन् of अहन् would have been elided by the last aphorism also, before the affixes ट and ख, the present <i>sutra</i> makes a restrictive rule : अहन् does not lose its final अन् before any other <i>Taddhita</i> affix, thus अह्ना निर्वृत्तम् = आह्निकम् (with ठञ् [[5.1.79]]). The word एव 'only' is for the sake of perspicuity. अहन् alone does not lose its final अन् before ट and ख, other stems also do the same. This we infer, from the exception made in the case of <i>atman</i> and <i>adhvan</i>, before ख in [[7.4.169]].

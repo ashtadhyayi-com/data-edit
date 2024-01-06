@@ -1,0 +1,2 @@
+The Genitive 6th-Case-affix is optionally elided after a stem ending in ऋ when 1. स्वसृ and 2. पितृ follow.
+Thus मातुःस्वसा or मातुःष्वसा or मातृष्वसा, पितुःस्वसा or पितुःष्वसा or पितृष्वसा ॥ When the affix is elided, then स is invariably changed to ष by [[8.3.85]]; and when it is not elided, then the change is optional [[8.3.85]]. So also दुहितुः पतिः or दुहितृपतिः, ननान्दुः पतिः or ननान्दृपतिः ॥

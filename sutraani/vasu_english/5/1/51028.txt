@@ -1,0 +1,8 @@
+The affix having the senses taught up to [[5.1.63]], is elided by लुक् after a stem beginning with the word अध्यर्ध , and after a द्विगु compound, when it is not in a name.
+The word आर्हात् is understood here also. Thus अध्यर्द्धकंसम्, द्विकंसम्, अध्यर्द्धशूर्पम्, द्विशूर्पम्, त्रिकंसम् , त्रिशूर्पम् ॥ Here the affixes टिठन् and अञ् are elided.
+
+Though in the words द्विशूर्पम् &c. the affix is elided, it is only so when the affixing of the <i>taddhita</i> occasions a <i>Dvigu</i> compounding [[2.1.51]] such as in द्वाभ्यां शूर्पाभ्यां क्रीतं = द्विशूर्पम् ॥ Here the resultant is a <i>Dvigu</i> compound. But in forming tertiary derivatives the affix is not elided, as द्विशूर्पेण क्रीतं = द्विशौर्पिकम् ॥ Hence the following rule: द्विगोर्लुकि तन्निमित्तग्रहणम् ॥ See [[4.1.88]], [[5.1.20]] ॥
+
+Why do we say असंज्ञायाम् 'when not a Name'? Observe पांचलोहितिकम् or पंचलौहितिकम् and पांचकलायिकम् being names of certain measures. The feminine word लोहिनी is changed into the masculine by the <i>Vartika</i> भस्याढे तद्धिते given under [[6.3.35]].
+
+The word अध्यर्द्ध is a <i>Sankhya</i> (See [[1.1.23]]), and a word beginning with it will be a <i>Dvigu</i> compound. Its separate mention in this <i>sutra</i> may appear superfluous. It is however so mentioned, in order to indicate (<i>jnapaka</i>) that this word is not always a <i>Sankhya</i>. Thus for the purposes of the application of the affix कृत्वसूच् [[5.4.17]], this word is not a <i>sankhya</i>.

@@ -1,0 +1,2 @@
+A short vowel is called लघु 'light'.
+This defines the word <i>Laghu</i>. A <i>hrasva</i> vowel which has already been defined [[1.2.27]], is under certain circumstances called <i>laghu</i> or 'light'; thus the <i>i</i> of भिद to break, is <i>laghu</i>, and by being <i>laghu</i> it is <i>gunated</i> before the affix ता + आ, as भेत्ता he will break, by virtue of the rule [[6.3.8]], which declares that a <i>laghu</i> penultimate vowel is <i>gunated</i> before a <i>Sarvadhatuka</i> or an <i>ardhadhatuka</i> affix. So also छेत्ता, अचीकरत् and अजीहरत्.

@@ -1,0 +1,18 @@
+The affix ढक् comes in the sense of साम वेद seen after the word कलि being in the Instrumental -3rd case.
+<i>Karika</i>
+दृष्टे सामनि जाते च द्विरण्डिद्वा विधीयते ।
+तीयादीकक् न विद्याया गोत्रादङ्कवदिष्यते ॥
+
+This debars अण् ॥ Thus कलिना दृष्टं साम = कालेयं ॥ "The <i>Sama</i> <i>Veda</i> revealed to <i>Kali</i>". This <i>sutra</i> is really a <i>Vartika</i> and not a <i>sutra</i> of <i>Panini</i>.
+
+Vart:- The affix 'dhak' comes always after अग्नि and कलि; not merely in the sense of <i>Sama</i>-<i>Veda</i> seen. Thus अग्निना दृष्टं साम = आग्नेयम् 'the <i>Sama</i>-<i>Veda</i> revealed to <i>Agni</i>'. अग्नौ भवं = आग्नेयम् 'who stays in <i>Agni</i>' [[4.3.53]] अग्नेरागतं "what has come from <i>Agni</i>" = आग्नेयम् [[4.3.74]] &c. Similarly कालेयम् means 'the <i>Sama</i>-<i>Veda</i> seen by <i>Kali</i>, he who stays in <i>Kali</i>, what has come from <i>Kali</i> &c.
+
+Vart:- The affix अण् is optionally treated as if it had an indicatory ड् when the sense is that of <i>Sama</i>-<i>Veda</i> seen. Thus उशनसा दृष्टं साम = औशनसम् or औशनम् (the force of डित् being to elide the टि portion; [[6.4.143]]).
+
+Vart:- The affix अण् in the sense of 'born', is optionally treated as डित्, provided that it be that अण् which being debarred by [[4.3.11]], is re-ordained by [[4.3.16]]. The affix अण् governs all <i>sutras</i> up to [[4.4.2]] by force of [[4.1.83]].; but it is debarred by ठञ् of [[4.3.11]], and is re-ordained in [[4.3.16]]. Thus शतभिषजि जातः = शतभिषः or शतभिषजः ॥
+
+Vart:- The affix ईकक् comes, optionally, without changing the sense after words ending in तीय ॥ Thus द्वैतीयीकम् or द्वितीयकम्, तर्तीयीकम् or तृतीयकम् ॥
+
+Vart:- Not so when it qualifies विद्या, as द्वितीया or तृतीया विद्या ॥  
+
+Vart:- The affix वुञ् [[4.3.126]] has the force of "<i>Sama</i>-<i>Veda</i> seen" when it comes after a <i>Gotra</i>-word. This औपगवकम् or कापटवकम् 'the <i>Sama</i>-<i>Veda</i> seen by <i>Aupagava</i>, or <i>Kapatava</i>'. The affix वुञ् comes after a word denoting a <i>Gotra</i> or <i>Charana</i>.

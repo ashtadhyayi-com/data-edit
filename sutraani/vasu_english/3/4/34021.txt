@@ -1,0 +1,10 @@
+When two actions have the same agent, the affix क्त्वा comes after that verb which takes place in time anterior to that of the other (i.e. Absolutive in त्व refers to that action which precedes in time).
+Thus भुक्त्वा व्रजति 'having eaten he goes'; पीत्वा व्रजति 'having drunk, he goes'.
+
+The rule is not confined to the case of two verbs: thus, स्नात्वा, पीत्वा, भुक्त्वा, दत्वा व्रजति 'having bathed, drunk, eaten and given, he goes'.
+
+Why do we say 'having the same agent'? When the agents are different, the gerund cannot be used, but the Locative Absolute construction will have to be used to express the same sense. Thus भुक्तवति ब्राह्मणो गच्छति देवदत्तः the '<i>Brahmana</i> having been fed, <i>Devadatta</i> goes'.
+
+Why do we say 'which denotes prior action'? For, if the actions are co-eval, the gerundial construction will not be employed. Thus व्रजति च जल्पति च 'he goes and chatters'.
+
+Vart:- The phrase आस्यं व्यादाय स्वपिति, सम्मील्य हसति 'he sleeps, with his mouth open, and laughs with his mouth closed', is valid, though the affix क्त्वा is not added to the verb denoting prior action.

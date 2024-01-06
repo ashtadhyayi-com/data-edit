@@ -1,0 +1,8 @@
+The words having the form of दा 'to give' and धा 'to place' are called घु।
+This defines the word <i>ghu</i>. Four verbs have the form of दा, or assume it by the application of [[6.1.45]], and two, of धा; they are called घु. The <i>ghu</i> verbs have certain peculiarities of conjugation to be described hereafter.
+
+The घु verbs are the following:- डुदाञ् "to give," as प्रणिददाति; दाण् "to give," as, प्रणिदाता; दो "to cut," as, प्रणिद्यति; देङ् "to pity" as, प्रणिदयते, डुधाञ् "to place" as प्रणिदधाति, धेट् to "feed" as, प्रणिधयति.
+
+In the above examples, because of the verbs being घु, the न of प्रनि is changed into ण by [[8.4.17]].
+
+Similarly दाप् "to cut" and दैप् "to clean" not being called घु, rules [[7.4.46]] and [[7.4.47]] do not apply to them. Thus दा+क्त = दातं 'what is cut,' as, दातं बर्हिः. So also अवदातं "washed" as, अवदातं मुखं "a bright face." But with दा "to give," &c. दा+क्त = दद्+त [[7.4.46]] = दत्तः "given;" so also we have प्र+दा+क्त = प्रत्तम् [[7.4.47]]. The word घु occurs in <i>sûtra</i> [[6.4.66]], &c. The word <i>dåp</i> includes also <i>daip</i> by the <i>paribhâshâ</i> given under [[3.4.19]], ऐ changed into आ by [[6.1.45]].

@@ -1,0 +1,4 @@
+The letter immediately preceding the last letter of a word is called penultimate (उपधा).
+This defines उपधा or penultimate. Thus in the words पच्, भिद्, बुध्, वृत् the letters अ, इ, उ, and ऋ are उपधा.
+
+The word '<i>upadha</i>' occurs in <i>sutra</i> [[7.2.116]].

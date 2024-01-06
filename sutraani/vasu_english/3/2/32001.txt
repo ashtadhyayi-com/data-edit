@@ -1,0 +1,10 @@
+The affix अण् comes after a verbal root when the object (or whatever sort it may be), is in composition with it (an an उपपद).
+The object or <i>karma</i> is of three sorts, namely <i>nivartya</i>, <i>vikarya</i> and <i>prapya</i>.
+
+The object which has a material cause, but such cause is however unexpressed in the sentence, is called <i>nivartya</i> object; as कुम्भम् करोति 'he makes a pot'; here मृत् 'mud' the material cause of कुम्भ is unexpressed, therefore, कुम्भ is <i>nivartya</i> object. Where the material cause itself is changed, by a modification, into something else, such an object is called <i>vikarya</i> object; as काण्डलावः 'the branch-cutter'. While the object which cannot be approached by any action, and is not affected by it, but is always constant, is called the <i>prapya</i> object; as a वेदाध्यायः 'the reading of <i>Veda</i>'; the <i>Veda</i> is always the same.
+
+They will be illustrated by the following examples:- Of the first kind, we have कुम्भकारः 'a potter' and  नगरकारः 'a city-builder'; of the second, we have काण्डलावः 'a branch-cutter' and शरलावः 'a reed-cutter'. Of the third, वेदाध्यायः 'the learning of <i>Veda</i>' and चर्चापाठः 'the reading of <i>Charcha</i>'. But compound nouns cannot be formed of such sentences as ग्रामं गच्छति 'he goes to the village', आदित्यं पश्यति 'he sees the sun', हिमवन्तं शृणोति 'he hears the <i>Himavat</i>'. The reason is that it is against the usage of the language to form nouns out of these.
+
+Vart:- The affix ण comes after the verbs शील्, काम्, भक्ष्य and आचर and the noun in composition with it, retains its original accent. As मांसशीलः 'addicted to flesh', fem. मांसशीला; मांसकामः 'loving flesh', fem. मांसकामा; मांसभक्षः 'carnivorous', fem. मांसभक्षा; and कल्याणाचारः 'good-conducted', fem. कल्याणाचारा ।
+
+Vart:- The affix ण comes after the roots ईक्ष 'to look' and क्षम् 'to forbear' under similar circumstances. As सुखप्रतीक्षः, fem. सुखप्रतीक्षा 'expecting happiness'; बहुक्षमः fem. बहुक्षमा 'much forbearing'.

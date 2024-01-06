@@ -1,0 +1,2 @@
+The affix कप् does not come after a बहुव्रीहि समास the last member of which ends in the affix ईयस्।
+This debars all the previous rules. Thus बहवः श्रेयांसोऽस्य = बहुश्रेयान्, here rule [[5.4.154]] is debarred. बह्व्यः श्रेयस्योऽस्य = बहुश्रेयसी, here rule [[5.4.153]] is prohibited. By rule [[1.2.48]] the long final ई ought to have been shortened, but this is not done by considering it as a masculine "ईयसो बहुव्रीहौ पुंवत्" See <i>Vartika</i> under [[1.2.48]].

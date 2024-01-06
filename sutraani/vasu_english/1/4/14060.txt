@@ -1,0 +1,12 @@
+The words प्र etc. are called also गति when in composition with a verb.
+As प्रकृत्य, Now the gerund of the simple root कृ would have been कृत्वा, but as it is compounded with a <i>gati</i> word [[2.2.18]] the त्वा is replaced by ल्यप् see [[2.2.18]] and [[7.1.37]]. प्र + कृ + ल्यप् = प्रकृत्या [[6.1.71]]. Here <i>pra</i> being called <i>gati</i> we have compounding by rule [[2.2.18]]; and then we apply [[7.1.37]]. Similarly प्रकृतम्. Here <i>pra</i> being a <i>gati</i> word retains its own accent by rule [[6.2.49]]. 'a <i>gati</i> retains in a compound its own accent when it immediately precedes a second member that ends in <i>kta</i>, provided the latter denotes the object of the action which is expressed by the root to which <i>kta</i> is added.'
+
+Similarly प्रकरोति, here <i>pra</i> being treated as <i>gati</i> gets <i>anudatta</i> accent by rule [[8.2.71]],
+
+The <i>yoga</i>-<i>vibhaga</i> or the separation of one aphorism into two, is for the sake of the subsequent aphorisms. The <i>anuvritti</i> of <i>gati</i> only runs through the latter <i>sutras</i> and not of <i>upasarga</i>. So that while <i>pra</i> &c., have two names <i>upasarga</i> and <i>gati</i>; <i>uri</i> &c., have only one name, namely, <i>gati</i>.
+
+Thus in प्रणीतम् and अभिषि॑क्तम्, by treating the words अ and अभि as <i>upasargas</i> we change the न and स into ण and ष by rule [[8.4.14]] and [[8.3.87]]; and again treating them as <i>gati</i> we regulate the accent.
+
+Vart:- The words कारिका should be included in the list of <i>Gati</i>. As (1) कारिकाकृत्य (2) कारिकाकृतम् (3) यत्कारिका करोति. In the first by taking it as <i>gati</i> we have <i>samasa</i> [[2.2.18]] and ल्यप् [[7.1.37]] The other two cases illustrate accent.
+
+Vart:- The words पुनर् and चनस् are treated as <i>Gati</i> in the <i>Vedas</i>. As पुनरुत्स्यूतंवासो देयम्. Here the word पुनर् being <i>gati</i>, causes स्यूतं to take <i>anudatta</i> accent [[8.1.70]] चनोहितः. Here also the accent is regulated by [[8.2.71]].

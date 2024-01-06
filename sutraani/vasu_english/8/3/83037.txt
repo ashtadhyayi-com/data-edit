@@ -1,0 +1,6 @@
+Xक and Xप are optionally substituted for the विसर्ग when followed by a hard Guttural or a hard labial.
+Thus वृक्षᳵकरोति or वृक्षः करोति, वृक्षᳵखनति or वृक्षः खनति, वृक्षᳶपचति or वृक्षः पचति, वृक्षᳶफलति or वृक्षः फलति ॥ The क and  प in ᳵक and ᳶप are for the sake of pronunciation only. The substitutes are the <i>Jihvamuliya</i> and the <i>Upadhmaniya</i> : two lost sibilants belonging to the class of क and प respectively.
+
+When the rule [[8.3.34]]. does not apply, then this <i>sutra</i> will apply; and will debar that. But [[8.3.35]]. will not be debarred. As वासः क्षौमम्, अद्भिः त्सातम् ॥ There is no <i>vipratishedha</i> between [[8.3.35]]. and [[8.3.37]], because of the <i>asiddhahood</i> of one with regard to the other. (VIII.2. I). In fact, every rule in these three chapters stands by itself, and ignores the existence of the subsequent rule. Hence [[8.3.35]] would not have been debarred by [[8.3.37]].
+
+To get this, some divide this <i>sutra</i> into two :- (1) कुप्वोः "The <i>visarga</i> is the substitute of <i>visarga</i> before a guttural or labial which is followed by a sibilant." (2) ᳵक ᳶपौच The <i>jihvamuliya</i> and <i>upadhmaniya</i> are substitutes of a <i>visarga</i> before a guttural and a labial in every other case."

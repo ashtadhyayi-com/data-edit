@@ -1,0 +1,4 @@
+And in Collective Compound -- दिङ्नामान्यन्तराले [[2.2.26]], the words सर्व etc. are not सर्वनाम।
+This <i>sutra</i> mentions another exception. In collective compounds the above words are not <i>sarvanama</i>. <i>Dvandva</i> is a compound in which two words are simply joined together, the compound taking the terminations of the dual or plural according to the number of compounded words, or the terminations of the singular, being treated as a collective term. Thus, the compound वर्णाश्रमेतर means, वर्ण 'the castes,' आश्रम 'the orders' and इतर 'the others'. The word इतर in this compound is not to be treated as a <i>sarvanama</i>, but an ordinary word. Therefore, in the genitive plural we have:-- वर्णाश्रमेतराणाम् and not ०इतरेषाम्. So also पूर्वापराणाम् 'of the priors and the posteriors.'
+
+The word च 'and' in the <i>sutra</i> indicates that it closes the list of exceptions or prohibitions that began with <i>sutra</i> [[1.1.29]].

@@ -1,0 +1,6 @@
+The affix टच् comes after गो standing at the end of a तत्-पुरुष समास when no elision of a तद्धित-affix has taken place in forming such a समास ।
+Thus परमगवः, उत्तमगवः, पंचगवम्, दशगवम् ॥ Why do we say "when no <i>Taddhita</i> affix has been elided in forming the compound?" Observe, पंचभिर्गोभिः क्रीतः = पंचगुः (Here the affix ठक् [[5.1.37]] is elided by [[5.1.28]] and hence the <i>samasanta</i> affix टच् is not added). So also दशगुः ॥
+
+Why do we say "when a <i>Taddhita</i> is elided"? The prohibition does not apply when a सुप् affix is elided : as राजगवमिच्छति = राजगवीयति [[3.1.8]] and [[2.4.71]].
+
+Why do we say 'when there is elision' ? Merely adding a <i>Taddhita</i> affix in forming a <i>Tatpurusha</i>, will not debar the <i>samasanta</i> affix: as पंचभ्यो गोभ्य आगतं = पंचगो + टच् + रुप्य (the <i>tach</i> is added by this <i>sutra</i>, and the <i>taddhita</i> रुप्य to denote तत आगतः by [[4.3.81]]) = पंचगवरुप्यम्, पंचगवमयम्, दशगवरुप्यम् दशगवमयम् ॥

@@ -1,0 +1,112 @@
+The following are the substitutes of ल - तिप् - तस् - झि - सिप् - थस् - थ - मिप् - वस् - मस् - त - आताम् - झ - थास् - आथाम् - ध्वम् - इट् - वहि - महिङ् ।
+These are the well-known Conjugational-affixes, called also Personal endings, and are ordained generally after all the ten tenses. But as a matter of fact, they undergo various additions and alterations in the different tenses. Some of these changes have already been mentioned before; see <i>sutra</i> [[1.4.8]], [[3.1.33]], &c. Others will be mentioned hereafter. It is only in the present tense or लट् that the affixes as above given, may be applied to the root, in some cases, without any alteration.
+
+The प in तिप्, सिप् and मिप् is for the sake of accent [[3.1.4]]; the ट् in इट् for distinguishing it in the <i>sutra</i> इटोऽत् [[3.4.106]]; and the ङ in महिङ् for forming the <i>Pratyahara</i> तिङ् which is the general name of the above 18 conjugational or personal affixes. Stripped off their indicatory letters, the following table shows the conjugational affixes as added under various tenses:-
+
+PRESENT TENSE.--लट् ।
+
+<i>Parasmaipada</i>.
+
+- 3rd person, ति, तस्, अन्ति
+- 2nd person, सि, थस्, थ
+- 1st person, मि, वस्, मस्
+
+<i>Atmanepada</i>.
+
+- 3rd person, ते, आते, अन्ते
+- 2nd person, से, आथे, ध्वे
+- 1st person, ए, वहे, महे
+
+IMPERFECT OR FIRST PRETERITE.—लङ् ।
+
+<i>Parasmaipada</i>.
+
+- 3rd person, त्, ताम्, अन्
+- 2nd person, स्, तम्, त
+- 1st person, अम्, व, म
+
+<i>Atmanepada</i>.
+
+- 3rd person, त, आताम्, अन्त
+- 2nd person, थास्, आथाम्, ध्वम्
+- 1st person, इ, वहि, महि  
+
+POTENTIAL OR OPTATIVE.—विधिलिङ् ।
+
+- 3rd person, यात्, याताम्, युस्
+- 2nd person, यास्, यातम्, यात
+- 1st person, याम्, याव, याम  
+
+- 3rd person, ईत, ईयाताम्, ईरन्
+- 2nd person, ईथास्, ईयाथाम्, ईध्वम्
+- 1st person, ईय, ईवहि, ईमहि  
+
+IMPERATIVE.--लोट् ।
+
+- 3rd person, तु, ताम, अन्तु
+- 2nd person, हि, तम्, त
+- 1st person, आनि, आव, आम  
+
+- 3rd person, ताम्, आताम्, अन्ताम्
+- 2nd person, स्व, आथाम्, ध्वम्
+- 1st person, ऐ, आवहै, आमहै  
+
+PERFECT OR SECOND PRETERITE.—लिट् ।
+
+- 3rd person, अ, अतुस्, उस्
+- 2nd person, थ, अथुस्, अ
+- 1st person, अ, व, म  
+
+- 3rd person, ए, आते, इरे
+- 2nd person, से, आथे, ध्वे
+- 1st person, ए, वहे, महे  
+
+FIRST FUTURE OR DEFINITE FUTURE.—लुट् ।
+
+- 3rd person, ता, तारौ, तारस्
+- 2nd person, तासि, तास्थस्, तास्थ
+- 1st person, तास्मि, तास्वस्, तास्मस्  
+
+- 3rd person, ता, तारौ, तारस्
+- 2nd person, तासे, तासाथे, ताध्वे
+- 1st person, ताहे, तास्वहे, तास्महे  
+
+SECOND FUTURE OR INDEFINITE FUTURE.—लृट् ।
+
+- 3rd person, स्यति, स्यतस्, स्यन्ति
+- 2nd person, स्यसि, स्यथस्, स्यथ
+- 1st person, स्यामि, स्यावस्, स्यामस्  
+
+- 3rd person, स्यते, स्येते, स्यन्ते
+- 2nd person, स्यसे, स्यथे, स्यध्वे
+- 1st person, स्ये, स्यावहे, स्यामहे  
+
+AORIST OR THIRD PRETERITE.—लुङ् ।
+
+- 3rd person, सीत्, स्ताम्, सुस्
+- 2nd person, सीस्, स्तम्, स्त
+- 1st person, सम्, स्व, स्म
+
+- 3rd person, स्त, साताम्, सत
+- 2nd person, स्थास्, साथाम्, ध्वम्
+- 1st person, सि, स्वहि, स्महि  
+
+PRECATIVE OR BENEDICTIVE.—आशीर्लिङ् ।
+
+- 3rd person, यात्, यास्ताम्, यासुस्
+- 2nd person, यास्, यास्तम्, यास्त
+- 1st person, यासम्, यास्व, यास्म  
+
+- 3rd person, सीष्ठ, सीयास्ताम्, सीरन्
+- 2nd person, सीष्ठास्, सीयास्थाम्, सीध्वम्
+- 1st person, सीय, सीवहि, सीमहि  
+
+CONDITIONAL.—लृङ् ।
+
+- 3rd person, स्यत्, स्यताम्, स्यन्
+- 2nd person, स्यस्, स्यतम्, स्यत
+- 1st person, स्यम्, स्याव, स्याम  
+
+- 3rd person, स्यत, स्येताम्, स्यन्त
+- 2nd person, स्यथास्, स्येस्थाम्, स्यध्वम्
+- 1st person, स्ये, स्यावहि, स्यामहि

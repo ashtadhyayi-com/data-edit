@@ -1,0 +1,6 @@
+The affix मप् comes always after the words ending in the affix त्रि, in the sense of 'completed thereby'.
+The त्रि here refers to the affix '<i>ktri</i>' [[3.3.88]]. Thus the root डुपच् takes त्रि and forms पक्त्रि, which is not a complete word, but must take the augment मप्, to form a full word. Thus पच् + क्त्रि + मप् = पक्त्रिमम् 'what is completed by being cooked'. So from डुवप् we have वप् + क्त्रि + मप् = उप्त्रिमम् (VI.I.I5): from डुकृञ् we have कृत्रिमम् ॥
+
+The word नित्य in the <i>sutra</i> indicates that the affix क्त्रि never comes singly by itself, all words ending in '<i>Ktri</i>' are invariably followed by मप् also. In fact मप् way be regarded as an invariable augment of the affix '<i>Ktri</i>'.
+
+Vart:- After a word ending in an affix denoting 'condition', the affix इमप् is added. Thus पाकेन निर्वृत्तं = पाकिमम् (पच् + घञ् [[3.3.18]] + इमप्), so त्यागिमम्, सेकिमम्, कुट्टिमम् ॥

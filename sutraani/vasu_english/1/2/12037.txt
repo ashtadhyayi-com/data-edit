@@ -1,0 +1,12 @@
+There should be no Monotony in the recitation of the सब्रह्मण्य hymns and in those hymns, the vowels, that would otherwise have taken the स्वरित accent, take the उदात्त accent instead.
+The <i>subrahmanya</i> hymns are portions of the <i>Rig</i> <i>Veda</i> mentioned in the <i>satapatha</i> <i>Brahmana</i>.
+
+This <i>sutra</i> prohibits <i>Ekasruti</i> in the case of certain prayers called <i>subrahmanya</i>. By rule [[1.2.34]] read with [[1.2.36]] <i>ante</i>, prayers might be optionally uttered with <i>Ekasruti</i> accent. This ordains an exception to that rule In <i>subrahmanya</i> prayers there is no <i>ekasruti</i>; and in these hymns, a vowel which otherwise by any rule of grammar would have taken a <i>svarita</i> accent, takes an <i>udatta</i> accent instead.
+
+As स॒ब्रह्म॒ण्यो३ मिन्द्रागच्छ॒ हरिव॒ आगच्छ॒. Here the word सुब्रह्मण्य is formed by the addition of the affix यत् to the word सुब्रह्मण्, and this य will get <i>svarita</i> accent by [[6.1.185]], (तित्स्वरितम्) as it has an indicatory त्; by the present <i>sutra</i>, this nascent <i>svarita</i> is changed into <i>udatta</i>. In the phrase इन्द्र आगच्छ, the word <i>Indra</i> being in the vocative case, इ is <i>udatta</i>, the अ of <i>Indra</i> is <i>anudatta</i> [[6.1.198]] \[1\]. The <i>anudatta</i> preceded by an <i>udatta</i> is changed into <i>svarita</i> [[8.4.66]] \[2\].
+
+Thus the अ of इन्द्र must become <i>svarita</i>, but by the present <i>sutra</i> this nascent <i>svarita</i> is changed into an <i>uddatta</i>. Thus in इन्द्र, both vowels become <i>udatta</i>. In the word आगच्छ, the आ is <i>udatta</i>; the next letter which was <i>anudatta</i> becomes <i>svarita</i>, and from <i>svarita</i> it is changed to <i>udatta</i> by the present rule. Thus in the sentence इन्द्र आगच्छ the first four syllables are all acutely accented, the fifth syllable is only <i>anudatta</i>. So also in हरिव आगच्छ, for the reasons given above, the letters व and च्छ are <i>anudatta</i>, the rest are all acutely accented.
+
+## Footnotes
+- [1] - आमन्त्रितस्य च ॥
+- [2] - उदात्तादनुदात्तस्य स्वरितः ॥

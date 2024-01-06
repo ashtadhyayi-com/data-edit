@@ -1,0 +1,4 @@
+The affix लिङ् (Benedictive) comes in all tenses when used with the words यच्च and यत्र and the sense implied is that of 'wonder'.
+The word चित्रीकरणं means 'wonder, astonishment, strangeness &c'. This debars all the other tense-affixes. Thus यच्च or यत्र तत्र भवान् वृषलं याजयेत् आश्चर्यमेतत् 'this is a wonder that you should sacrifice for a <i>Sudra</i>'.
+ 
+When the non-completion of the action is indicated, the Conditional is employed under the rules [[3.3.139]], [[3.3.140]] and [[3.3.141]]. Thus आश्चर्यमेतत् यच्च or यत्र त्वं शूद्रं याजयेः or अयाजयिष्यः 'it is a wonder that you should (have attempted to) perform a sacrifice for a <i>Sudra</i>'; आश्चर्यमेतत् यच्च or यत्र त्वं शूद्रं अयाजयिष्यः 'it is a wonder that you should (hereafter attempt to) make a <i>Sudra</i> perform a sacrifice'.
